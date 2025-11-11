@@ -4,7 +4,7 @@ import { Image } from 'astro:assets'
 import SocialIcons from './SocialIcons.astro'
 
 
-const {fullName, title, institute, profilePicture} = Astro.props
+const {fullName, title, institute, heroImage} = Astro.props
 ---
 <div class='flex-1'>
   <h1 class='text-4xl font-bold mb-4'>
@@ -25,8 +25,8 @@ His research centers on interdisciplinary, data-driven technologies, covering ar
 <div class='size-72 lg:block hidden'>
   <!-- Add your profile image -->
   <Image
-    src={profilePicture}
+    src={heroImage}
     alt={fullName}
-    class='w-full h-full mask mask-circle size-44'
+    class='w-full rounded-lg'
   />
 </div>

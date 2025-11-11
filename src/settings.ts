@@ -30,7 +30,7 @@ export const template = {
 	darkTheme: 'dim', // Select one of the Daisy UI Themes or create your own
 	excerptLength: 200,
 	postPerPage: 5,
-    base: '/academic_website' // Repository name starting with /
+    base: '' // Repository name starting with /
 }
 
 export const seo = {

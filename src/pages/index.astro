@@ -2,13 +2,13 @@
 import Layout from '../layouts/Layout.astro'
 
 import { profile } from '@/settings'
-import { publications } from '@/data/cv'
+import { publications } from '@/data/papers'
 import heroImage from '@/assets/hero_image.png'
 import Hero from '@/components/ui/Hero.astro'
-import Grid from '@/components/ui/Grid.astro'
+import PageSection from '@/components/ui/PageSection.astro'
 import ArticleList from '@/components/ui/ArticleList.astro'
 
-const { fullName, title, institute, research_area, research_areas } = profile
+const { fullName, title, institute, research_interests, research_areas } = profile
 
 // Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
 // Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
@@ -27,8 +27,7 @@ const { fullName, title, institute, research_area, research_areas } = profile
 
 	<!-- Research Areas -->
 	<section class='py-12 border-b'>
-		{research_area}
-		<Grid gridTitle='Research Areas' gridItems={research_areas} />
+		<PageSection sectionTitle='Research Interests' sectionContents={research_interests} />
 	</section>
 
 	<!-- Recent Publications -->

@@ -3,7 +3,7 @@ export const profile = {
 	title: 'Senior Researcher',
 	institute: 'Vienna University of Economics and Business',
 	author_name: 'Amin Anjomshoaa', // Author name to be highlighted in the papers section
-	research_area: 'In my research I explore how data and knowledge can drive actionable insights through applied knowledge management and data science. Our goal is to make knowledge universally accessible, fostering a knowledge-driven society. We focus on neuro-symbolic AI—combining structured reasoning with machine learning for transparency and intelligence—and on data spaces that enable secure, interoperable, and trusted data sharing across domains.',
+	research_interests: 'In my research I explore how data and knowledge can drive actionable insights through applied knowledge management and data science. Our goal is to make knowledge universally accessible, fostering a knowledge-driven society. We focus on neuro-symbolic AI—combining structured reasoning with machine learning for transparency and intelligence—and on data spaces that enable secure, interoperable, and trusted data sharing across domains.',
 	research_areas: [
 		// { title: 'Physics', description: 'Brief description of the research interest', field: 'physics' },
 	],
@@ -30,7 +30,7 @@ export const template = {
 	darkTheme: 'dim', // Select one of the Daisy UI Themes or create your own
 	excerptLength: 200,
 	postPerPage: 5,
-    base: '/' // Repository name starting with /
+    base: '' // Repository name starting with /
 }
 
 export const seo = {

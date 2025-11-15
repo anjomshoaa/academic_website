@@ -1,0 +1,77 @@
+[
+{
+    "id": "2025-11-20-ehds",
+    "title": "From Data to Actionable Insights in Healthcare", 
+    "venue": "European Health Data Space Event, Vienna, Austria", 
+    "category": "Invited Talk",
+    "date": "November 20, 2025", 
+    "link": "" 
+},
+{
+    "id": "2025-10-06-ensuresmartcities",
+    "title": "Neuro-Symbolic AI for Resilient Smart City Systems", 
+    "venue": "ENSURE Workshop, 11th IEEE International Smart Cities Conference, Patras, Greece", 
+    "category": "Keynote",
+    "date": "October 6, 2025", 
+    "link": "" 
+},
+{
+    "id": "2025-10-06-precisionagriculture",
+    "title": "AI-Driven Precision Agriculture in the Context ofSmart Cities: A Pathway to Food Security andEnvironmental Resilience",
+    "venue": "11th IEEE International Smart Cities Conference, Patras, Greece",
+    "category": "Paper Presentation",
+    "date": "October 6, 2025",
+    "link": ""
+},
+{
+    "id": "2025-10-07-smartcitiespanel",
+    "title": "Navigating the Future of Smart Cities: Towards Sustainability, Resilience and Participation",
+    "venue": "11th IEEE International Smart Cities Conference, Patras, Greece",
+    "category": "Panel Discussion",
+    "date": "October 7, 2025",
+    "link": ""
+},
+{
+    "id": "2025-04-11-knowledgegraphs",
+    "title": "Knowledge Graphs in the AI-Driven Era: Emerging Trends and Real-World Applications",
+    "venue": "10th Winter Seminar Series, Sharif University of Technology, Tehran, Iran",
+    "category": "Invited Talk",
+    "date": "April 11, 2025",
+    "link": ""
+}, 
+
+{
+    "id": "2022-04-13-democratizingenvironmentaldata",
+    "title": "Democratizing Environmental Data in Smart Cities",
+    "venue": "IEEE Smart Cities Week 2022, Workshop on Smart Cities: People-Centric Situation-Aware Approaches",
+    "category": "Invited Talk",
+    "date": "April 13, 2022",
+    "link": ""
+},
+{
+    "id": "2022-02-28-knowledgegraphs",
+    "title": "Knowledge Graphs and their Applications in Intelligent Systems",
+    "venue": "9th Iranian Congress on Fuzzy and Intelligent Systems (IFIS 2022)",
+    "category": "Invited Talk",
+    "date": "February 28, 2022",
+    "link": ""
+}, 
+{
+    "id": "2021-08-29-introductiontodatascience",
+    "title": "Introduction to Data Science",
+    "venue": "52nd Annual Iranian Mathematics Conference, Kerman, Iran",
+    "category": "Workshop",
+    "date": "August 29, 2021",
+    "link": ""
+},
+{
+    "id": "2020-12-13-mathsmartcities",
+    "title": "Math Behind Smart Cities",
+    "venue": "Kerman University, Iran",
+    "category": "Invited Talk",
+    "date": "December 13, 2020",
+    "link": ""
+
+}
+
+]

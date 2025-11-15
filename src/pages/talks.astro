@@ -1,0 +1,54 @@
+---
+import FormattedDate from "@/components/FormattedDate.astro";
+import Layout from "@/layouts/Layout.astro";
+import {template} from "@/settings";
+
+import { getCollection } from 'astro:content'
+
+// export async function getStaticPaths(): Promise<Astro.getStaticPathsResult> {
+//     const talkEntries = await getCollection('talk');
+
+//     const talks = talkEntries
+//         .map(talk => ({
+//             title: talk.data.title,
+//             date: talk.data.date,
+//             venue: talk.data.venue,
+//             category: talk.data.category,
+//         }))
+//         .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+
+//     return talks;
+// }
+
+
+const talks = (await getCollection('talk')).sort(
+	(a, b) => b.data.date.valueOf() - a.data.date.valueOf(),
+);
+
+const { page } = Astro.props
+---
+
+<Layout title="Talks">
+  <div class="prose max-w-none">
+    <h1 class="text-3xl font-bold mb-8">Talks</h1>
+
+    <div class="space-y-8">
+      {
+        talks.map((talk) => (
+          <div class="card bg-base-200">
+            <div class="card-body">
+              <h2 class="card-title text-xl">
+                  {talk.data.title}
+              </h2>
+              <p class="text-sm mb-3">
+                <span class="italic">{talk.data.venue}</span> • <FormattedDate date={talk.data.date}/>
+              </p>
+              <p class="text-sm text-base-content/80">{talk.data.category}</p>
+            </div>
+          </div>
+        ))
+      }
+    </div>
+
+  </div>
+</Layout>

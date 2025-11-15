@@ -6,7 +6,7 @@ import ProfilePictures from '@/assets/profile_picture.png'
 import { getCollection } from 'astro:content'
 import { template } from '@/settings'
 
-const isBlogPopulated = await getCollection('blog').then(collection => collection.length > 0)
+// const isBlogPopulated = await getCollection('blog').then(collection => collection.length > 0)
 
 const {fullName, title} = profile
 ---
@@ -37,11 +37,15 @@ const {fullName, title} = profile
 					<li>
                         <a href={`${template.base}/cv`} class='text-lg'>CV</a>
                     </li>
-                    {isBlogPopulated &&
+					<li>
+                        <a href={`${template.base}/talks`} class='text-lg'>Talks</a>
+                    </li>
+
+                    <!-- {isBlogPopulated &&
 					<li>
                         <a href={`${template.base}/blog/1`} class='text-lg'>Blog</a>
 </li>
-                    }
+                    } -->
 				</ul>
 			</div>
 		</div>

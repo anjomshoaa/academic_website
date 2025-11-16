@@ -32,11 +32,11 @@ A1  - Anjomshoaa, Amin
 A1  - Karim, Shuaib
 A1  - Shayeganfar, Ferial
 A1  - Tjoa, A Min
-JO  - Research and Practical Issues of Enterprise Information Systems: IFIP TC 8 International Conference on Research and Practical Issues of Enterprise Information Systems (CONFENIS 2006) April 24–26, 2006, Vienna, Austria
+JO  - Research and Practical Issues of Enterprise Information Systems: IFIP TC 8 International Conference on Research and Practical Issues of Enterprise Information Systems (CONFENIS 2006) 
 SP  - 417
 EP  - 427
 Y1  - 2006
-PB  - Springer US Boston, MA
+PB  - Boston, MA: Springer US.
 ER  - 
 
 
@@ -76,10 +76,11 @@ ER  -
 
 
 TY  - DISS
-T1  - Integration of personal services into global business
+T1  - Integration of Personal Services into Global Vusiness
+JO  - Dissertation
 A1  - Anjomshoaa, Amin
 Y1  - 2009
-PB  - Technische Universität Wien
+PB  - Vienna University of Technology
 ER  - 
 
 
@@ -88,7 +89,7 @@ T1  - User Data Privacy in Web Services Context Using Semantic Desktop-SemanticL
 A1  - Ahmed, Mansoor
 A1  - Andjomshoaa, Amin
 A1  - Tjoa, A Min
-JO  - iiWAS
+JO  - The ninth International Conference on Information Integration and Web-based Applications & Services (iiWAS)
 SP  - 125
 EP  - 136
 Y1  - 2007
@@ -123,20 +124,6 @@ Y1  - 2010
 PB  - IEEE
 ER  - 
 
-
-TY  - CONF
-T1  - Context oriented analysis of web 2.0 social network contents-mindmeister use-case
-A1  - Anjomshoaa, Amin
-A1  - Vo Sao, Khue
-A1  - Tjoa, A Min
-A1  - Weippl, Edgar
-A1  - Hollauf, Michael
-JO  - Asian Conference on Intelligent Information and Database Systems
-SP  - 180
-EP  - 189
-Y1  - 2010
-PB  - Springer Berlin Heidelberg Berlin, Heidelberg
-ER  - 
 
 
 TY  - CONF
@@ -201,7 +188,7 @@ T1  - A Qualitative Resource Utilization Benchmarking for Mobile Applications
 A1  - Rawassizadeh, Reza
 A1  - Anjomshoaa, Amin
 A1  - Tjoa, A Min
-T2  - Innovations in Mobile Multimedia Communications and Applications: New Technologies
+JO  - Innovations in Mobile Multimedia Communications and Applications: New Technologies
 SP  - 149
 EP  - 160
 Y1  - 2011
@@ -209,50 +196,13 @@ PB  - IGI Global Scientific Publishing
 ER  - 
 
 
-TY  - JOUR
-T1  - " Implementation of an IFD library using semenatic web technologies: A case study"; Vortrag: ECPPM 2008-eWork and eBusiness in architecture, Engineering and Construction, Sophia Antipolis, Frankreich; 10.09. 2008-12.09. 2008; in:" ECPPM 2008 eWork and eBusiness in Architecture, Engineering and Construction", AS Zarli, R. Scherer (Hrg.);(2008), ISBN: 978-0-415-48245-5; S. 539-544.
-A1  - Shayeganfar, F
-A1  - Mahdavi, A
-A1  - Suter, G
-A1  - Anjomshoaa, A
-ER  - 
-
-
-TY  - JOUR
-T1  - Symposia and Workshop Organizing Committee
-A1  - Yang, Laurence T
-A1  - Anjomshoaa, Amin
-A1  - Tjoa, A Min
-A1  - Weippl, Edgar
-A1  - Grimaila, Michael R
-A1  - Allen, Julia H
-A1  - Seker, Remzi
-A1  - Phoha, Vir
-A1  - Ramamoorthy, CV
-A1  - Thuraisingham, Bhavani
-ER  - 
-
-
-TY  - CONF
-T1  - Blending the sketched use case scenario with license agreements using semantics
-A1  - Asfand-E-Yar, Muhammad
-A1  - Anjomshoaa, Amin
-A1  - Weippl, Edgar R
-A1  - Tjoa, A Min
-JO  - International Conference on Knowledge Science, Engineering and Management
-SP  - 275
-EP  - 284
-Y1  - 2009
-PB  - Springer Berlin Heidelberg Berlin, Heidelberg
-ER  - 
-
 
 TY  - CHAP
 T1  - Browsing and Visualization of Semantic Web Content-From Web to the Desktop
 A1  - Khusro, Shah
 A1  - Anjomshoaa, Amin
 A1  - Tjoa, A Min
-T2  - Knowledge Management: Innovation, Technology and Cultures
+JO  - Knowledge Management: Innovation, Technology and Cultures
 SP  - 27
 EP  - 36
 Y1  - 2007
@@ -270,20 +220,6 @@ Y1  - 2011
 ER  - 
 
 
-TY  - JOUR
-T1  - " Offizielle" elektronische Version der Publikation (entsprechend ihrem Digital Object Identifier-DOI)
-A1  - Anjomshoaa, A
-A1  - Tjoa, A
-A1  - Hendrik, H
-JO  - Journal Of Service Science Research
-VL  - 6
-IS  - 1
-SP  - 7
-EP  - 27
-Y1  - 2014
-ER  - 
-
-
 TY  - CONF
 T1  - Combining and integrating advanced IT-concepts with semantic web technology mashups architecture case study
 A1  - Anjomshoaa, Amin
@@ -298,26 +234,18 @@ ER  -
 
 
 TY  - JOUR
-T1  - " Exploiting Mashup Architecture in Business Use Cases"; Hauptvortrag: International Conference on Network-Based Information Systems, Indianapolis, USA (eingeladen); 19.08. 2009-21.08. 2009; in:" 2009 International Conference on Network-Based Information Systems", IEEE,(2009), ISBN: 9780769537672; S. xx-xxvii.
-A1  - Anjomshoaa, A
-A1  - Bader, G
-A1  - Tjoa, A
-ER  - 
-
-
-TY  - JOUR
-T1  - FARES Reviewers
-A1  - Abawajy, Jemal H
-A1  - Accorsi, Rafael
-A1  - Adelsbach, Andre
-A1  - Aggelis, Vasilis
-A1  - Andrews, John
+T1  - Exploiting Mashup Architecture in Business Use Cases
+JO  - International Conference on Network-Based Information Systems, Indianapolis, USA
+Y1  - 2009
+JO  - 2009 International Conference on Network-Based Information Systems
+PB  - IEEE, ISBN: 9780769537672
+SP  - xx
+EP  - xxvii
 A1  - Anjomshoaa, Amin
-A1  - Balzarotti, Davide
-A1  - Bartlett, Lisa
-A1  - Bartoletti, Massimo
-A1  - Bhargava, Bharat
+A1  - Bader, Gerald
+A1  - Tjoa, A Min
 ER  - 
+
 
 
 TY  - CONF
@@ -333,11 +261,16 @@ ER  -
 
 
 TY  - JOUR
-T1  - " Towards an Ontology-based Risk Assessment in Collaborative Environment Using the SemanticLIFE"; Vortrag: Second International Conference on Availability, Reliability and Security (ARES 2007), Wien; 10.04. 2007-13.04. 2007; in:" The Second International Conference on Availability, Reliability and Security", IEEE Computer Society,(2007), ISBN: 978-0-7695-2775-8; S. 400-407.
-A1  - Anjomshoaa, A
-A1  - Nguyen, M
-A1  - Tjoa, A
-A1  - Ahmed, M
+T1  - Towards an Ontology-based Risk Assessment in Collaborative Environment Using the SemanticLIFE
+Y1  - 2007
+JO  - The Second International Conference on Availability, Reliability and Security (ARES 2007)
+PB  - IEEE Computer Society, ISBN: 978-0-7695-2775-8
+SP  - 400
+EP  - 407
+A1  - Anjomshoaa, Amin
+A1  - Nguyen, Tho Manh
+A1  - Tjoa, A Min
+A1  - Ahmed, Mansoor
 ER  - 
 
 
@@ -358,19 +291,11 @@ T1  - A lightweight data integration architecture based on semantic annotated RS
 A1  - Anjomshoaa, Amin
 A1  - Tjoa, A Min
 A1  - Rezaiee, Homa
-JO  - OTM Confederated International Conferences" On the Move to Meaningful Internet Systems"
+JO  - On the Move to Meaningful Internet Systems, Confederated International Conference
 SP  - 170
 EP  - 177
 Y1  - 2011
-PB  - Springer Berlin Heidelberg Berlin, Heidelberg
-ER  - 
-
-
-TY  - JOUR
-T1  - Vorträge und Posterpräsentationen (ohne Tagungsband-Eintrag)
-A1  - Anjomshoaa, A
-A1  - Shayeganfar, F
-A1  - Tjoa, A
+PB  - Berlin, Heidelberg: Springer Berlin Heidelberg
 ER  - 
 
 
@@ -392,30 +317,19 @@ PB  - Inderscience Publishers Ltd
 ER  - 
 
 
-TY  - JOUR
-T1  - " Context-Based Privacy Management of Personal Information Using Semantic Desktop: SemanticLIFE Case Study"; Vortrag: iiWAS 2008, Linz; 24.11. 2008-26.11. 2008; in:" Proceedings of the 10th International Conference on Informationb Integration and Web-based Application & Services", Oesterreichische Computer Geselschaft, Band 241 (2008), ISBN: 978-1-60558-349-5; S. 214-221.
-A1  - Ahmed, M
-A1  - Anjomshoaa, A
-A1  - Tjoa, A
-ER  - 
-
 
 TY  - JOUR
-T1  - " Exploiting Ontology for Software License Agreements"; International Journal of Software and Informatics, 4 (2010), 1; S. 89-100.
-A1  - Asfand-E-Yar, M
-A1  - Anjomshoaa, A
-A1  - Weippl, E
-A1  - Tjoa, A
-ER  - 
-
-
-TY  - JOUR
-T1  - " Linked Widgets-An Approach to Exploit Open Government Data"; Vortrag: iiWAS 2013-The 15th International Conference on Information Integration and Web-based Applications & Services, Wien; 02.12. 2013-04.12. 2013; in:" Proceedings of the 15th International Conference on Information Integration and Web-based Applications & Services (iiWAS2013)", ACM,(2013), ISBN: 978-1-4503-2113-6; S. 438-442.
-A1  - Trinh, T
-A1  - Do, B
-A1  - Wetz, P
-A1  - Anjomshoaa, A
-A1  - Tjoa, A
+T1  - Exploiting Ontology for Software License Agreements
+JO  - International Journal of Software and Informatics
+Y1  - 2010
+VL  - 4
+IS  - 1
+SP  - 89
+EP  - 100
+A1  - Asfand-E-Yar, Muhammad
+A1  - Anjomshoaa, Amin
+A1  - Weippl, Edgar
+A1  - Tjoa, A Min
 ER  - 
 
 
@@ -430,14 +344,21 @@ Y1  - 2009
 ER  - 
 
 
-TY  - JOUR
-T1  - " Context Oriented Analysis of Web 2.0 Social Network Contents-MindMeister Use-case"; Vortrag: ACIIDS 2010, Intelligent Information and Database Systems, Hue City, Vietnam; 24.03. 2010-26.03. 2010; in:" Proceedings of the Asian Conference on Intelligent Information and Database Systems (ACIIDS 2010)", Springer, LNAI 5990 (2010), ISBN: 978-3-642-12144-9; S. 180-189.
-A1  - Anjomshoaa, A
-A1  - Khue, V
-A1  - Tjoa, A
-A1  - Weippl, E
-A1  - Michael, H
+
+TY  - CONF
+T1  - Context Oriented Analysis of Web 2.0 Social Network Contents - MindMeister Use-case
+A1  - Anjomshoaa, Amin
+A1  - Vo Sao, Khue
+A1  - Tjoa, A Min
+A1  - Weippl, Edgar
+A1  - Hollauf, Michael
+JO  - Proceedings of the Asian Conference on Intelligent Information and Database Systems (ACIIDS 2010)
+SP  - 180
+EP  - 189
+Y1  - 2010
+PB  - Springer, LNAI 5990 (2010), ISBN: 978-3-642-12144-9
 ER  - 
+
 
 
 TY  - CONF
@@ -480,7 +401,7 @@ JO  - International Conference on Computers for Handicapped Persons
 SP  - 1147
 EP  - 1154
 Y1  - 2006
-PB  - Springer Berlin Heidelberg Berlin, Heidelberg
+PB  - Berlin, Heidelberg: Springer Berlin Heidelberg
 ER  - 
 
 
@@ -499,15 +420,15 @@ ER  -
 
 
 TY  - CONF
-T1  - VQS–an ontology-based query system for the SemanticLIFE digital memory project
+T1  - VQS – An Ontology-based Query System for the SemanticLIFE Digital Memory Project
 A1  - Hoang, Hanh Huu
 A1  - Andjomshoaa, Amin
 A1  - Tjoa, A Min
-JO  - OTM Confederated International Conferences" On the Move to Meaningful Internet Systems"
+JO  - On the Move to Meaningful Internet Systems, Confederated International Conference
 SP  - 1796
 EP  - 1805
 Y1  - 2006
-PB  - Springer Berlin Heidelberg Berlin, Heidelberg
+PB  - Berlin, Heidelberg: Springer Berlin Heidelberg
 ER  - 
 
 
@@ -517,25 +438,25 @@ A1  - Hoang, Hanh Huu
 A1  - Nguyen, Tho Manh
 A1  - Andjomshoaa, Amin
 A1  - Tjoa, A Min
-JO  - iiWAS
+JO  - The eighth International Conference on Information Integration and Web-based Applications & Services (iiWAS)
 SP  - 107
 EP  - 116
 Y1  - 2006
 ER  - 
 
 
-TY  - CHAP
-T1  - Implementation of an ifd library using semantic web technologies: A case study
+TY  - JOUR
+T1  - Implementation of an IFD Library Using Semantic Web Technologies: A Case Study
+JO  - ECPPM 2008 eWork and eBusiness in Architecture, Engineering and Construction
+PB  - CRC Press, ISBN: 978-0-415-48245-5
+SP  - 539
+EP  - 544
+SN  - 0429207174
 A1  - Shayeganfar, Ferial
 A1  - Mahdavi, Ardeshir
-A1  - Suter, Georg
+A1  - Suter, George
 A1  - Anjomshoaa, Amin
-T2  - eWork and eBusiness in Architecture, Engineering and Construction
-SP  - 553
-EP  - 558
-SN  - 0429207174
 Y1  - 2008
-PB  - CRC Press
 ER  - 
 
 
@@ -566,7 +487,7 @@ A1  - Anjomshoaa, Amin
 A1  - Fenz, Stefan
 A1  - Heurix, Johannes
 A1  - Neubauer, Thomas
-A1  - Tjoa, A
+A1  - Tjoa, A Min
 JO  - eWork and eBusiness in Architecture, Engineering and Construction
 SP  - 363
 EP  - 370
@@ -723,10 +644,13 @@ A1  - Wetz, Peter
 A1  - Anjomshoaa, Amin
 A1  - Tjoa, A Min
 JO  - Proceedings of International Conference on Information Integration and Web-based Applications & Services
+PB  - ACM, ISBN: 978-1-4503-2113-6
 SP  - 438
 EP  - 442
 Y1  - 2013
 ER  - 
+
+
 
 
 TY  - CONF
@@ -778,7 +702,7 @@ ER  -
 
 TY  - CONF
 T1  - Towards semantic mashup tools for big data analysis
-A1  - Hendrik
+A1  - Hendrik, Hendrik
 A1  - Anjomshoaa, Amin
 A1  - Tjoa, A Min
 JO  - Information and Communication Technology-EurAsia Conference
@@ -836,7 +760,7 @@ ER  -
 
 TY  - CONF
 T1  - Semantic-Aware Mashups for Personal Resources in SemanticLIFE and SocialLIFE
-A1  - Vo, Sao-Khue
+A1  - Vo Sao, Khue
 A1  - Anjomshoaa, Amin
 A1  - Tjoa, A Min
 JO  - International Conference on Availability, Reliability, and Security
@@ -881,15 +805,18 @@ ER  -
 
 TY  - CONF
 T1  - A Drag-and-block Approach for Linked Open Data Exploration.
+JO  - Proceedings of the 5th International Workshop on Consuming Linked Data (COLD 2014), co-located with the 13th International Semantic Web Conference (ISWC 2014) 
+PB  - CEUR-WS
+VL  - 1264  
 A1  - Trinh, Tuan-Dat
 A1  - Do, Ba-Lam
 A1  - Wetz, Peter
 A1  - Anjomshoaa, Amin
 A1  - Kiesling, Elmar
 A1  - Tjoa, A Min
-JO  - COLD
 Y1  - 2014
 ER  - 
+
 
 
 TY  - CONF
@@ -938,13 +865,30 @@ PB  - Springer International Publishing Cham
 ER  - 
 
 
-TY  - CONF
-T1  - Blending Building Information with Smart City Data.
+TY  - CPAPER
+T1  - Blending Building Information with Smart City Data
 A1  - Anjomshoaa, Amin
-JO  - S4SC@ ISWC
+JO  - Proceedings of the Fifth Workshop on Semantics for Smarter Cities a Workshop at the 13th International Semantic Web Conference (ISWC 2014)
+PB  - CEUR-WS
+VL  - 1280
 SP  - 1
 EP  - 2
 Y1  - 2014
+L1  - https://ceur-ws.org/Vol-1280/paper6.pdf
+ER  - 
+
+
+TY  - CONF
+T1  - Blending the sketched use case scenario with license agreements using semantics
+A1  - Asfand-E-Yar, Muhammad
+A1  - Anjomshoaa, Amin
+A1  - Weippl, Edgar
+A1  - Tjoa, A Min
+JO  - International Conference on Knowledge Science, Engineering and Management
+SP  - 275
+EP  - 284
+Y1  - 2009
+PB  - Berlin, Heidelberg: Springer Berlin Heidelberg
 ER  - 
 
 
@@ -1011,7 +955,7 @@ T1  - Leveraging the web of data via linked widgets
 A1  - Anjomshoaa, Amin
 A1  - Kiesling, Elmar
 A1  - Tuan, Dat Trinh
-A1  - Lam, Do Ba
+A1  - Do, Ba-Lam
 A1  - Wetz, Peter
 A1  - Tjoa, A Min
 JO  - Journal of Service Science Research
@@ -1022,17 +966,6 @@ EP  - 27
 SN  - 2093-0720
 Y1  - 2014
 PB  - The Society of Service Science Heidelberg
-ER  - 
-
-
-TY  - JOUR
-T1  - " A Drag-and-block Approach for Linked Open Data Exploration"; Vortrag: 5th International Workshop on Consuming Linked Data (COLD 2014) co-located with the 13th International Semantic Web Conference (ISWC 2014), Riva del Gardy, Italien; 20.10. 2014; in:" Proceedings of the 5th International Workshop on Consuming Linked Data (COLD 2014) co-located with the 13th International Semantic Web Conference (ISWC 2014)", CEUR-WS, Vol-1264 (2014), Paper-Nr. 8, 12 S.
-A1  - Trinh, T
-A1  - Do, B
-A1  - Wetz, P
-A1  - Anjomshoaa, A
-A1  - Kiesling, E
-A1  - Tjoa, A
 ER  - 
 
 
@@ -1106,22 +1039,17 @@ PB  - ÖKK-Editions
 ER  - 
 
 
-TY  - JOUR
-T1  - Large-Scale Data-and Knowledge-Centered Systems XXVII
-A1  - Anjomshoaa, Amin
-A1  - Hung, Patrick CK
-A1  - Kalisch, Dominik
-A1  - Sobolevsky, Stanislav
-Y1  - 2016
-ER  - 
-
 
 TY  - CONF
 T1  - Quantifying the Anthropogenic Heat in Urban Areas Using Thermal Images
-A1  - Anjomshoaa, A., Duarte, F., Alvarez, R., Britter, R., & Ratti, C.
+A1  - Anjomshoaa, Amin
+A1  - Duarte, Fabio
+A1  - Alvarez, Ricardo
+A1  - Britter, Rex
+A1  - Ratti, Carlo
 JO  - International Conference on Computational Science and Computational Intelligence (CSCI)
-SP  - pp
-EP  - 647
+SP  - 647
+EP  - 652
 Y1  - 2016
 PB  - IEEE
 ER  - 
@@ -1276,15 +1204,6 @@ PB  - Springer International Publishing Cham
 ER  - 
 
 
-TY  - JOUR
-T1  - Quantifying the Spatio-temporal Efficiency of Drive-by Sensing for Smart City Use cases
-A1  - Anjomshoaa, Amin
-A1  - Santi, Paolo
-A1  - Duarte, Fabio
-A1  - Ratti, Carlo
-ER  - 
-
-
 TY  - CONF
 T1  - Exploiting SenseCam for helping the blind in business negotiations
 A1  - Tjoa, A Min
@@ -1335,15 +1254,6 @@ Y1  - 2021
 ER  - 
 
 
-TY  - JOUR
-T1  - Blending the Sketched Use Case Scenario with License Agreements using Semantics
-A1  - Ali Khan, Farman
-A1  - Anjomshoaa, Amin
-A1  - Weippl, Edgar
-A1  - Tjoa, A Min
-Y1  - 2019
-ER  - 
-
 
 TY  - JOUR
 T1  - Air Quality Monitoring Case Study Using Mobile Low-cost Sensors mounted on Trash-Trucks: Methods Development and Lessons Learned
@@ -1359,16 +1269,6 @@ Y1  - 2020
 PB  - Elsevier
 ER  - 
 
-
-TY  - JOUR
-T1  - Supplementary Information (SI) for
-A1  - deSouza1ϯ, Priyanka
-A1  - Anjomshoaa, Amin
-A1  - Duarte, Fabio
-A1  - Kahn, Ralph
-A1  - Kumar, Prashant
-A1  - Ratti, Carlo
-ER  - 
 
 
 TY  - JOUR
@@ -1389,21 +1289,6 @@ JO  - Proceedings of The 9th International Conference on Information Integration
 Y1  - 2007
 ER  - 
 
-
-TY  - JOUR
-T1  - SEMERGY-Identifying optimal building refurbishment strategies
-A1  - Fenz, Stefan
-A1  - Heurix, Johannes
-A1  - Neubauer, Thomas
-A1  - Anjomshoaa, Amin
-A1  - Shayeganfar, Ferial
-A1  - Ghiassi, Neda
-A1  - Taheri, Mahnameh
-A1  - Hammerberg, Kristopher
-A1  - Wolosiuk, Dawid
-A1  - Sustr, Christian
-Y1  - 2014
-ER  - 
 
 
 TY  - CONF
@@ -1486,26 +1371,16 @@ PB  - ÖKK-Editions
 ER  - 
 
 
-TY  - JOUR
-T1  - Section S1: Experiment design in Cambridge, MA
-A1  - deSouza, Priyanka
-A1  - Anjomshoaa, Amin
-A1  - Duarte, Fabio
-A1  - Kahn, Ralph
-A1  - Kumar, Prashant
-A1  - Ratti, Carlo
-ER  - 
-
-
 TY  - CHAP
 T1  - Data Platforms for Data Spaces
 A1  - Anjomshoaa, Amin
 A1  - al., et
-T2  - Data Spaces
+JO  - Data Spaces: Design, Deployment and Future Directions
 SP  - 43
 EP  - 64
 Y1  - 2022
-PB  - Springer
+PB  - Cham: Springer International Publishing
+DI  - https://doi.org/10.1007/978-3-030-98636-0_3
 ER  - 
 
 
@@ -1529,16 +1404,18 @@ ER  -
 
 
 TY  - CONF
-T1  - From data to insights: Constructing spatiotemporal knowledge graphs for city resilience use cases
+T1  - From data to insights: Constructing Spatiotemporal Knowledge Graphs for City Resilience Use Cases
 A1  - Anjomshoaa, Amin
 A1  - Schuster, Hannah
 A1  - Wachs, Johannes
 A1  - Polleres, Axel
-JO  - CEUR Workshop Proceedings
+JO  - Proceedings of the Second International Workshop on Linked Data-driven Resilience Research 2023, co-located with Extended Semantic Web Conference 2023 (ESWC 2023)
 VL  - 3401
 SN  - 1613-0073
 Y1  - 2023
 PB  - CEUR-WS
+L1  - https://ceur-ws.org/Vol-3401/paper1.pdf
+VL  - 3401
 ER  - 
 
 
@@ -1572,10 +1449,11 @@ ER  -
 
 
 TY  - DISS
-T1  - Datadreamer: generating a generic persistence layer
+T1  - DataDreamer - Generating a Generic Persistence Layer
 A1  - Anjomshoaa, Amin
 Y1  - 2005
-PB  - Technische Universität Wien
+JO  - Master Thesis
+PB  - Vienna University of Technology
 ER  - 
 
 
@@ -1597,9 +1475,12 @@ ER  -
 
 TY  - JOUR
 T1  - Empowering Digital Humanism in Smart Built Environments through SOLID Data Spaces
+JO  - The 1st Solid Symposium Poster Session, co-located with the 2nd Solid Symposium
+PB  - CEUR-WS
 A1  - Anjomshoaa, Amin
 A1  - Kurniawan, Kabul
 A1  - Mahdavi, Ardeshir
+L1 - https://ceur-ws.org/Vol-3947/short10.pdf
 Y1  - 2024
 ER  - 
 
@@ -1609,7 +1490,11 @@ T1  - Assessing the Reliability and Scientific Rigor of References in Wikidata
 A1  - Schuster, Hannah
 A1  - Anjomshoaa, Amin
 A1  - Polleres, Axel
-Y1  - 2022
+Y1  - 2024
+JO  - Proceedings of the 4th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K 2024), co-located with 23rd International Semantic Web Conference (ISWC 2024)
+L1  - https://ceur-ws.org/Vol-3780/paper7.pdf
+PB  - CEUR-WS
+VL  - 3780
 ER  - 
 
 
@@ -1617,6 +1502,12 @@ TY  - JOUR
 T1  - Leveraging Large Language Models to Identify Event-Driven Changes in Wikidata Entities
 A1  - Vandák, Gregor
 A1  - Anjomshoaa, Amin
+JO  - Proceedings of the International Workshop on Retrieval-Augmented Generation Enabled by Knowledge Graphs (RAGE-KG 2024), co-located with the 23rd International Semantic Web Conference (ISWC 2024)
+PB  - CEUR-WS
+VL  - 10
+SP  - 15
+EP  - 412
+L1  - https://ceur-ws.org/Vol-3950/short2.pdf
 Y1  - 2024
 ER  - 
 
@@ -1631,26 +1522,16 @@ Y1  - 2024
 ER  - 
 
 
-TY  - JOUR
-T1  - esearch and Innovation
-A1  - Kupsa, Rafael
-A1  - Anjomshoaa, Amin
-A1  - Tauber, Markus
-JO  - ERCIM NEWS
-SP  - 39
-ER  - 
-
 
 TY  - GEN
-T1  - Transactions on Large-Scale Data-and Knowledge-Centered Systems XXVII: Special Issue on Big Data for Complex Urban Systems
-A1  - Hameurlain, Abdelkader
-A1  - Küng, Josef
-A1  - Wagner, Roland
+T1  - Special Issue on Big Data for Complex Urban Systems
+JO  - Transactions on Large-Scale Data-and Knowledge-Centered Systems XXVII 
 A1  - Anjomshoaa, Amin
 A1  - Hung, Patrick CK
 A1  - Kalisch, Dominik
 A1  - Sobolevsky, Stanislav
 SN  - 3662534169
+VL  - 9860
 Y1  - 2016
 PB  - Springer
 ER  - 
@@ -1707,7 +1588,7 @@ ER  -
 
 
 TY  - JOUR
-T1  - Inter-railways data sharing for seamless travelling applications in Europe.
+T1  - Inter-railways Data Sharing for Seamless Travelling Applications in Europe.
 A1  - Sohi, Shahrom
 A1  - Harikrishnan, Sri
 A1  - Labanca, Gabriele
@@ -1716,6 +1597,10 @@ A1  - Macko, Michaela
 A1  - Scepka, Benjamin
 A1  - Anjomshoaa, Amin
 A1  - Polleres, Axel
+JO  - Joint Proceedings of Posters, Demos, Workshops, and Tutorials of the 21st International Conference on Semantic Systems (SEMANTiCS 2025)
+VL  - 4064
+PB  - CEUR-WS
+L1  - https://ceur-ws.org/Vol-4064/Sem4Tra-paper3.pdf
 Y1  - 2025
 ER  - 
 
@@ -1727,4 +1612,44 @@ A1  - Balan, Dragomir
 A1  - Anjomshoaa, Amin
 A1  - Polleres, Axel
 Y1  - 2025
+JO  - Proceedings of the Second International Workshop on Retrieval-Augmented Generation Enabled by Knowledge Graphs (RAGE-KG 2025), co-located with the 24th International Semantic Web Conference (ISWC 2025)
+PB  - CEUR-WS
+SP  - 169
+EP  - 174
+VL  - 4079
+L1  - https://ceur-ws.org/Vol-4079/short4.pdf
 ER  - 
+
+TY  - CONF
+T1  - Building a Web-based Open Source Tool to Enhance Project Management, Monitoring and Collaboration in Scientific Projects
+A1  - Schatten, Alexander
+A1  - Tjoa, A Min
+A1  - Anjomshoaa, Amin
+A1  - Shafazand, M. Hassan
+L1  - https://www.schatten.info/publications/iiwas/iiwas2001.pdf
+JO  - The Third International Conference on Information Integration and Web-based Applications & Services (iiWAS)
+Y1  - 2001
+ER  - 
+
+
+
+TY  - CONF
+T1  - Knowledge Representation Using ISODataDreamer
+A1  - Anjomshoaa, Amin
+JO  - 1st EuroAsia Conference on Advances in Information and Communication Technology (ICS 2002)
+Y1  - 2002
+ER  - 
+
+
+
+TY  - CONF
+T1  - The Application of Software Agent Technology to Project Management Infrastructure
+A1  - Anjomshoaa, Amin
+A1  - Schatten, Alexander
+A1  - Tjoa, A Min
+A1  - Shafazand, M. Hassan
+L1  - https://www.schatten.info/publications/iiwas/iiwas2002.pdf
+JO  - The Fourth International Conference on Information Integration and Web-based Applications & Services (iiWAS)
+Y1  - 2002
+ER  - 
+

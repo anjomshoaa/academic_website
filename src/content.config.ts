@@ -38,11 +38,26 @@ const talk = defineCollection({
         venue: z.string(),
         date: z.coerce.date(),
         category: z.string(),
-        link: z.string(),
+        url: z.string(),
     }),
 });
 
 
+const paper = defineCollection({
+  loader: file("./src/data/papers.json"),
+    schema: z.object({
+        title: z.string(),
+        authors: z.string(),
+        venue: z.string(),
+        volume: z.string().optional(),
+        issue: z.string().optional(),
+        publisher: z.string().optional(),
+        year: z.coerce.number().int(),
+        pages: z.string().optional(),
+        url: z.string().optional(),
+    }),
+});
+
 
 // 4. Export a single `collections` object to register your collection(s)
-export const collections = { talk,};
+export const collections = { talk, paper, };

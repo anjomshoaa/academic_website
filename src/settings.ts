@@ -5,7 +5,22 @@ export const profile = {
 	author_name: 'Amin Anjomshoaa', // Author name to be highlighted in the papers section
 	research_interests: 'In my research I explore how data and knowledge can drive actionable insights through applied knowledge management and data science. Our goal is to make knowledge universally accessible, fostering a knowledge-driven society. We focus on neuro-symbolic AI—combining structured reasoning with machine learning for transparency and intelligence—and on data spaces that enable secure, interoperable, and trusted data sharing across domains.',
 	research_areas: [
-		// { title: 'Physics', description: 'Brief description of the research interest', field: 'physics' },
+		{ 
+			title: 'Data Spaces', 
+			description: 'Application of Dat Spaces for Knowledge Management and Knowledge Sharing.', 
+			field: 'CS'
+		},
+		{ 
+			title: 'Smart City', 
+			description: 'Environmental Monitoring and Drive-by Sensing Applications', 
+			field: 'CS' 
+		},
+		{ 
+			title: 'Knowledge Graph', 
+			description: 'Semantic Web, Linked Data, and Knowledge Graph Applications', 
+			field: 'CS' 
+		},
+
 	],
 }
 

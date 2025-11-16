@@ -5,7 +5,7 @@
     "venue": "European Health Data Space Event, Vienna, Austria", 
     "category": "Invited Talk",
     "date": "November 20, 2025", 
-    "link": "" 
+    "url": "" 
 },
 {
     "id": "2025-10-06-ensuresmartcities",
@@ -13,7 +13,7 @@
     "venue": "ENSURE Workshop, 11th IEEE International Smart Cities Conference, Patras, Greece", 
     "category": "Keynote",
     "date": "October 6, 2025", 
-    "link": "" 
+    "url": "" 
 },
 {
     "id": "2025-10-06-precisionagriculture",
@@ -21,7 +21,7 @@
     "venue": "11th IEEE International Smart Cities Conference, Patras, Greece",
     "category": "Paper Presentation",
     "date": "October 6, 2025",
-    "link": ""
+    "url": ""
 },
 {
     "id": "2025-10-07-smartcitiespanel",
@@ -29,7 +29,7 @@
     "venue": "11th IEEE International Smart Cities Conference, Patras, Greece",
     "category": "Panel Discussion",
     "date": "October 7, 2025",
-    "link": ""
+    "url": ""
 },
 {
     "id": "2025-04-11-knowledgegraphs",
@@ -37,7 +37,7 @@
     "venue": "10th Winter Seminar Series, Sharif University of Technology, Tehran, Iran",
     "category": "Invited Talk",
     "date": "April 11, 2025",
-    "link": ""
+    "url": ""
 }, 
 
 {
@@ -46,7 +46,7 @@
     "venue": "IEEE Smart Cities Week 2022, Workshop on Smart Cities: People-Centric Situation-Aware Approaches",
     "category": "Invited Talk",
     "date": "April 13, 2022",
-    "link": ""
+    "url": ""
 },
 {
     "id": "2022-02-28-knowledgegraphs",
@@ -54,7 +54,7 @@
     "venue": "9th Iranian Congress on Fuzzy and Intelligent Systems (IFIS 2022)",
     "category": "Invited Talk",
     "date": "February 28, 2022",
-    "link": ""
+    "url": ""
 }, 
 {
     "id": "2021-08-29-introductiontodatascience",
@@ -62,7 +62,7 @@
     "venue": "52nd Annual Iranian Mathematics Conference, Kerman, Iran",
     "category": "Workshop",
     "date": "August 29, 2021",
-    "link": ""
+    "url": ""
 },
 {
     "id": "2020-12-13-mathsmartcities",
@@ -70,7 +70,7 @@
     "venue": "Kerman University, Iran",
     "category": "Invited Talk",
     "date": "December 13, 2020",
-    "link": ""
+    "url": ""
 
 }
 

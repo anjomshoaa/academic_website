@@ -41,6 +41,34 @@
 }, 
 
 {
+    "id": "2024-08-12-kgapplications",
+    "title": "Knowledge Graphs Applications in the AI-Driven Era",
+    "venue": "Kerman Province Research Week 2024, Kerman, Iran",
+    "category": "Invited Talk",
+    "date": "August 12, 2024",
+    "url": ""
+}, 
+
+{
+    "id": "2024-07-17-icicos2024",
+    "title": "Synergizing Data Integration and Crisis Management using Knowledge Graphs",
+    "venue": "The 7th International Conference onInformatics and Computing Science (ICICoS2024)",
+    "category": "Keynote",
+    "date": "July 17, 2024",
+    "url": ""
+}, 
+
+{
+    "id": "2023-11-16-interdisciplinarydatascience",
+    "title": "Navigating Complexity, The Power of Connecting the Dots in Interdisciplinary Data Science",
+    "venue": "Institute for Data, Process and Knowledge Management, Vienna University of Economics and Business (WU Wien)",
+    "category": "Invited Talk",
+    "date": "November 16, 2023",
+    "url": ""
+}, 
+
+
+{
     "id": "2022-04-13-democratizingenvironmentaldata",
     "title": "Democratizing Environmental Data in Smart Cities",
     "venue": "IEEE Smart Cities Week 2022, Workshop on Smart Cities: People-Centric Situation-Aware Approaches",
@@ -66,12 +94,53 @@
 },
 {
     "id": "2020-12-13-mathsmartcities",
-    "title": "Math Behind Smart Cities",
-    "venue": "Kerman University, Iran",
+    "title": "The Math Behind Smart Cities",
+    "venue": "Mahani Mathematical Research Center, Kerman University, Iran",
     "category": "Invited Talk",
     "date": "December 13, 2020",
     "url": ""
+},
+{
+    "id": "2017-11-11-drivebysensing",
+    "title": "Drive-by Sensing - A Disruptive Sensing Approach for Smart City Applications",
+    "venue": "Austrian Institute of Technology (AIT), Vienna, Austria",
+    "category": "Invited Talk",
+    "date": "November 11, 2017",
+    "url": ""
+},
 
+
+{
+    "id": "2024-11-12-wikidatareferences",
+    "title": "Assessing the Reliability and Scientific Rigor of References in Wikidata",
+    "venue": "Scientific Knowledge: Representation, Discovery, and Assessment 2024 Workshop (Sci-K 2024), Baltimore, Maryland, USA",
+    "category": "Invited Talk",
+    "date": "November 12, 2024",
+    "url": ""
+},
+{
+    "id": "2024-11-11-llmeventdrivenwikidata",
+    "title": "Leveraging Large Language Models to Identify Event-Driven Changes in Wikidata Entities",
+    "venue": "Retrieval-Augmented Generation Enabled by Knowledge Graphs 2024 Workshop (RAGE-KG 2024), Baltimore, USA",
+    "category": "Invited Talk",
+    "date": "November 11, 2024",
+    "url": ""
+},
+{
+    "id": "2020-11-04-datastories",
+    "title": "Data Stories: Why data has become vital as never before?",
+    "venue": "The 2020 Scratch National Competition, Irish Computer Society and Lero, Dublin, Ireland",
+    "category": "Keynote",
+    "date": "November 4, 2020",
+    "url": ""
+}, 
+{
+    "id": "2022-03-20-linkedpeoplenet",
+    "title": "Exploring the World of Family Trees in Wikidata and Wikipedia (LinkedPeople.net)",
+    "venue": "Data Reuse Days 2022, Wikimedia Foundation",
+    "category": "Invited Talk",
+    "date": "March 20, 2022",
+    "url": ""
 }
 
 ]

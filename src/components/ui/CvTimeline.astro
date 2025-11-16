@@ -1,6 +1,10 @@
 ---
 import { isExperience } from '@/types/cv';
 import type { Experience, Education } from '@/types/cv';
+import { Image } from 'astro:assets';
+
+
+import { logos } from '@/data/logos.ts';
 
 interface Props {
 	elements: (Experience | Education)[]
@@ -30,15 +34,27 @@ const { elements, colored } = Astro.props
 						/>
 					</svg>
 				</div>
-				<div
-					class={`${index % 2 === 0 ? 'timeline-start' : 'timeline-end'} mb-10 md:text-end`}
-				>
+				<div class="timeline-start mb-10 md:text-end">
 					<time class='font-mono italic'>{element.time}</time>
 					<div class='text-lg font-black'>{isExperience(element) ? element.title : element.degree}</div>
 					<div>{element.description}</div>
 					<div>{isExperience(element) ? element.company : element.school}</div>
 					<div>{element.location}</div>
 				</div>
+
+				<div class="timeline-end m-10 md:text-end">
+
+					<a href={element.url} target="_blank" class="inline-block hover:scale-105 transition-transform">
+						<Image 
+							src={logos[element.logo]} 
+							height="80"
+							alt={isExperience(element) ? element.company : element.school}
+						/>
+					</a>
+
+				</div>
+
+
         <hr class:list={[{ 'bg-accent': colored }]} />
 			</li>
 		))

@@ -1,7 +1,9 @@
 ---
 import FormattedDate from "@/components/FormattedDate.astro";
 import Layout from "@/layouts/Layout.astro";
-import {template} from "@/settings";
+// import {template} from "@/settings";
+
+import Talk from '@/assets/talk.svg'
 
 import { getCollection } from 'astro:content'
 
@@ -30,20 +32,26 @@ const { page } = Astro.props
 
 <Layout title="Talks">
   <div class="prose max-w-none">
-    <h1 class="text-3xl font-bold mb-8">Talks</h1>
+
+
+    <div class="flex items-center gap-2 mb-8">
+      <Talk class="size-12" fill="currentColor" />
+      <h1 class="text-3xl font-bold mt-4">Talks</h1>
+    </div>
 
     <div class="space-y-8">
       {
         talks.map((talk) => (
           <div class="card bg-base-200">
+            
             <div class="card-body">
-              <h2 class="card-title text-xl">
+              <h2 class="card-title m-0 text-xl">
                   {talk.data.title}
               </h2>
-              <p class="text-sm mb-3">
-                <span class="italic">{talk.data.venue}</span> • <FormattedDate date={talk.data.date}/>
+              <p class="text-base m-0">
+                <span class="italic">{talk.data.venue}</span>
               </p>
-              <p class="text-sm text-base-content/80">{talk.data.category}</p>
+              <p class="text-base m-0">{talk.data.category}  • <FormattedDate date={talk.data.date}/></p>
             </div>
           </div>
         ))

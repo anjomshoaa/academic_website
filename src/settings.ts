@@ -3,7 +3,7 @@ export const profile = {
 	title: 'Senior Researcher',
 	institute: 'Vienna University of Economics and Business',
 	author_name: 'Amin Anjomshoaa', // Author name to be highlighted in the papers section
-	research_interests: 'In my research I explore how data and knowledge can drive actionable insights through applied knowledge management and data science. Our goal is to make knowledge universally accessible, fostering a knowledge-driven society. We focus on neuro-symbolic AI—combining structured reasoning with machine learning for transparency and intelligence—and on data spaces that enable secure, interoperable, and trusted data sharing across domains.',
+	research_interests: 'I explore how data and knowledge can drive actionable insights through applied knowledge management and data science, with the broader goal of making knowledge universally accessible. My work focuses on interdisciplinary, data-driven technologies, including the Semantic Web, Linked Data, Knowledge Graphs, Data Spaces, Smart Cities, the Internet of Things (IoT), and Machine Learning. Currently, my research spans neuro-symbolic AI (combining structured reasoning with machine learning to enhance transparency and intelligence) and the development of Data Spaces that enable secure, interoperable, and trusted data sharing across domains.',
 	research_areas: [
 		{ 
 			title: 'Data Spaces', 

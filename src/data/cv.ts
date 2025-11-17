@@ -1,6 +1,3 @@
-
-
-
 export const experiences = [
 	{
 		company: 'Vienna University of Business and Economics (WU Wien)',
@@ -15,10 +12,10 @@ export const experiences = [
 		company: 'Research Studio Austria',
 		time: '2024 - present',
 		title: 'Director',
-		location: 'St. Pölten',
+		location: 'St. Pölten, Austria',
 		url: 'https://researchstudio.at/',
 		logo: 'RSA',
-		description: 'Smart Digital INdistries and Services (SDIS)',
+		description: 'Smart Digital Industries and Services (SDIS)',
 	},
 		{
 		company: 'Complexity Science Hub Vienna',
@@ -41,7 +38,7 @@ export const experiences = [
 	{
 		company: 'Massachusetts Institute of Technology (MIT)',
 		time: '2014 - 2019',
-		title: 'rsearch Lead',
+		title: 'Research Lead',
 		url: 'https://www.mit.edu/',
 		logo: 'MIT',
 		location: 'Cambridge, USA',
@@ -89,7 +86,7 @@ export const education = [
 		location: 'Vienna, Austria',
 		url: 'https://www.tuwien.at/en/',
 		logo: 'TU',
-		description: 'Finished with distinction.',
+		description: 'Finished with distinction',
 	},
 	{	school: 'Vienna University of Technology',
 		time: '2006 - 2007',
@@ -107,7 +104,7 @@ export const education = [
 		logo: 'TU',
 		description: '',
 	},
-	{	school: 'Shahid Bahonar University of Kerman',
+	{	school: 'Kerman University',
 		time: '1997',
 		degree: 'Bachelor’s in Applied Mathematics',
 		location: 'Kerman, Iran',

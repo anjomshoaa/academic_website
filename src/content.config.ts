@@ -43,6 +43,18 @@ const talk = defineCollection({
 });
 
 
+const thesis = defineCollection({
+  loader: file("./src/data/thesis.json"),
+    schema: z.object({
+        title: z.string(),
+        author: z.string(),
+        role: z.string(),
+        year: z.coerce.number().int(),
+        category: z.string(),
+        url: z.string(),
+    }),
+});
+
 const paper = defineCollection({
   loader: file("./src/data/papers.json"),
     schema: z.object({
@@ -60,4 +72,4 @@ const paper = defineCollection({
 
 
 // 4. Export a single `collections` object to register your collection(s)
-export const collections = { talk, paper, };
+export const collections = { talk, paper, thesis};

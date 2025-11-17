@@ -7,7 +7,7 @@ export const profile = {
 	research_areas: [
 		{ 
 			title: 'Data Spaces', 
-			description: 'Application of Dat Spaces for Knowledge Management and Knowledge Sharing.', 
+			description: 'Application of Data Spaces for Knowledge Management and Knowledge Sharing.', 
 			field: 'CS'
 		},
 		{ 

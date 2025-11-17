@@ -1,0 +1,274 @@
+[
+
+{
+	"id": "idl2024",
+	"author": "David Idl",
+	"title": "Analysis of Heat Resilience Among Austrian Municipalities: Identification of Vulnerable Communities Through Data Pooling",
+	"category": "Bachelor Thesis",
+	"year": 2024,
+	"role" : "Advisor",
+	"url": ""
+},
+{
+	"id": "massmann2025",
+	"author": "Fredrik Maßmann",
+	"title": "Data Interoperability in European Railway Information Exchange: A Study of GTFS and NeTEx",
+	"category": "Bachelor Thesis",
+	"year": 2025,
+	"role" : "Advisor",
+	"url": ""
+},
+{
+	"id": "belodedova2025",
+	"author": "Elena Belodedova",
+	"title": "Economy of Shared Automated Vehicles",
+	"category": "Master Thesis",
+	"year": 2025,
+	"role" : "Advisor",
+	"url": ""
+},
+{
+	"id": "zelle2024",
+	"author": "Joshua Zelle",
+	"title": "Extracting Supply Chain Information from Text Data Using LLMs",
+	"category": "Bachelor Thesis",
+	"year": 2024,
+	"role" : "Advisor",
+	"url": ""
+},
+{
+	"id": "zipperle2025",
+	"author": "Daniel Zipperle",
+	"title": "Evaluating Alternatives to Park and Ride: A Data-centric Analysis of Bicycle Infrastructure and Public Transport Accessibility at P+R Stations in Austria",
+	"category": "Bachelor Thesis",
+	"year": 2025,
+	"role" : "Advisor",
+	"url": ""
+},
+{
+	"id": "prokesch2025",
+	"author": "Matthias Bernhard Prokesch",
+	"title": "Evaluating Citation Quality and Relevance Using Text Embeddings",
+	"category": "Bachelor Thesis",
+	"year": 2025,
+	"role" : "Advisor",
+	"url": ""
+},
+{
+	"id": "sick2024",
+	"author": "Stefan Sick",
+	"title": "Extracting Semiconductor Supply Chain Relationships using Large Language Models (LLMs)",
+	"category": "Bachelor Thesis",
+	"year": 2024,
+	"role" : "Advisor",
+	"url": ""
+},
+{
+	"id": "maisch2025",
+	"author": "Silas Maisch",
+	"title": "Investigation of Train Delays and Precipitation: A close View of Austrian Train Stations",
+	"category": "Bachelor Thesis",
+	"year": 2025,
+	"role" : "Advisor",
+	"url": ""
+},
+{
+	"id": "kovekh2024",
+	"author": "Daniil Kovekh",
+	"title": "RDF Serialization Using Indexed Predicate Chains",
+	"category": "Bachelor Thesis",
+	"year": 2024,
+	"role" : "Advisor",
+	"url": ""
+},
+{
+	"id": "schuster2025",
+	"author": "Lisa Schuster",
+	"title": "The Evolution of Weather Warnings: Insights from GeoSphere Austria's Forecasts",
+	"category": "Bachelor Thesis",
+	"year": 2025,
+	"role" : "Advisor",
+	"url": ""
+},
+{
+	"id": "vandak2025",
+	"author": "Gregor Vandak",
+	"title": "Visualizing Event-Driven Dynamics in Wikidata: Leveraging Large Language Models for Entity Evolution Analysis",
+	"category": "Bachelor Thesis",
+	"year": 2025,
+	"role" : "Advisor",
+	"url": ""
+},
+{   
+	"id": "wetz2016",
+	"author": "Peter Wetz",
+	"title": "Semantic Stream Processing of Environmental Data",
+	"category": "PhD Thesis",
+	"role" : "Mentor",
+	"year": 2016,
+	"url": "https://repositum.tuwien.at/handle/20.500.12708/3263"
+},
+{   
+	"id": "rawassizadeh2007",
+	"author": "Reza Rawassizadeh",
+	"title": "Generic Web Service client for SOPA Framework",
+	"category": "Master Thesis",
+	"role" : "Mentor",
+	"year": 2007,
+	"url": "https://repositum.tuwien.at/handle/20.500.12708/14198"
+},
+{   
+	"id": "bader2011",
+	"author": "Gerald Bader",
+	"title": "Exploiting Business Impact of Enterprise Mashup Solutions",
+	"category": "PhD Thesis",
+	"role" : "Mentor",
+	"year": 2011,
+	"url": "https://repositum.tuwien.at/handle/20.500.12708/160512"
+},
+{   
+	"id": "do2017",
+	"author": "Ba-Lam Do",
+	"title": "Semantic Integration and Exploration of Statistical Data",
+	"category": "PhD Thesis",
+	"role" : "Mentor",
+	"year": 2017,
+	"url": "https://repositum.tuwien.at/handle/20.500.12708/10352"
+},
+{   
+	"id": "trinh2016",
+	"author": "Tuan Dat Trinh",
+	"title": "Mashup-based Linked Data Integration",
+	"category": "PhD Thesis",
+	"role" : "Mentor",
+	"year": 2016,
+	"url": "https://repositum.tuwien.at/handle/20.500.12708/6624"
+},
+{
+	"id": "chinquist2014",
+	"author": "Jeremy Chinquist",
+	"title": "Geospacial Information Management in Web-based CMS Systems : Theory, Techniques, Specifications and Data Management",
+	"year": 2014,
+	"role": "Co-advisor",
+	"category": "Master Thesis",
+	"url": "https://repositum.tuwien.at/handle/20.500.12708/7764"
+},
+{
+	"id": "hanel2014",
+	"author": "Manuel Hanel",
+	"title": "Analysis and Comparison of Front-End Frameworks with Respect to Accessibility",
+	"year": 2014,
+	"role": "Co-advisor",
+	"category": "Master Thesis",
+	"url": "https://repositum.tuwien.at/handle/20.500.12708/159098"
+},
+{
+	"id": "vo2014",
+	"author": "Sao Khue Vo",  
+	"title": "Semantic-aware Mashup for Personal Resources and Its Relevance for the Open Semantic Enterprise Concept",
+	"year": 2014,
+	"role": "Co-advisor",
+	"category": "PhD Thesis",
+	"url": "https://repositum.tuwien.at/handle/20.500.12708/2622"
+},
+{
+	"id": "pershina2014",
+	"author": "Irina Pershina",
+	"title": "Consuming Linked Open Data via Standard Web Widgets",
+	"year": 2014,
+	"role": "Co-advisor",
+	"category": "Master Thesis",
+	"url": "https://repositum.tuwien.at/handle/20.500.12708/7473"
+},
+{
+	"id": "sagmeister2014",
+	"author": "Martin Sagmeister",
+	"title": "Location based resources and widgets in mashup environments",
+	"year": 2014,
+	"role": "Co-advisor",
+	"category": "Master Thesis",
+	"url": "https://repositum.tuwien.at/handle/20.500.12708/80064"
+},
+{
+	"id": "weiss2013",
+	"author": "Christian Weiss",
+	"title": "Transferring Open Government Data into the global Linked Open Data cloud",
+	"year": 2013,
+	"role": "Co-advisor",
+	"category": "Master Thesis",
+	"url": "https://repositum.tuwien.at/handle/20.500.12708/8070"
+},
+{
+	"id": "dabernig2013",
+	"author": "Josef Dabernig",
+	"title": "Geocluster: server-side clustering for mapping in Drupal based on Geohash",
+	"year": 2013,
+	"role": "Co-advisor",
+	"category": "Master Thesis",
+	"url": "https://repositum.tuwien.at/handle/20.500.12708/159731"
+},
+{
+	"id": "hofstaetter2013",
+	"author": "Harald Hofstätter",
+	"title": "A Data Pipeline Engine for Smartphones Based on XProc for Building Context-aware Workflows",
+	"year": 2013,
+	"role": "Advisor",
+	"category": "Master Thesis",
+	"url": "https://repositum.tuwien.at/handle/20.500.12708/159706"
+},
+{
+	"id": "hobel2012",
+	"author": "Heidelinde Hobel",
+	"title": "Context-aware Security Analysis of Mashups",
+	"year": 2012,
+	"role": "Co-advisor",
+	"category": "Master Thesis",
+	"url": "https://repositum.tuwien.at/handle/20.500.12708/8918"
+},
+{
+	"id": "wasmayr2011",
+	"author": "Philipp Wasmayr",
+	"title": "Development of a Process for Ensuring the Quality of Interfaces in Heterogeneous System Landscapes",
+	"year": 2011,
+	"role": "Co-advisor",
+	"category": "Master Thesis",
+	"url": "https://repositum.tuwien.at/handle/20.500.12708/10710"
+},
+{
+	"id": "rezaie2011",
+	"author": "Homa Rezaie",
+	"title": "Applying Semantic Web Concepts to GeoRSS",
+	"year": 2011,
+	"role": "Co-advisor",
+	"category": "Master Thesis",
+	"url": "https://repositum.tuwien.at/handle/20.500.12708/12649"
+},
+{
+	"id": "schakmann2011",
+	"author": "Rene Schakmann",
+	"title": "Planning and Development of a Tool for Reporting, Monitoring, and Supporting the Execution of Interface Tests in Heterogeneous System Landscapes",
+	"year": 2011,
+	"role": "Co-advisor",
+	"category": "Master Thesis",
+	"url":"https://repositum.tuwien.at/handle/20.500.12708/9249"
+},
+{
+	"id": "ziegler2010",
+	"author": "Wolfgang Ziegler",
+	"title": "Event-Condition-Action Rules for Distributed Content Management",
+	"year": 2010,
+	"role": "Co-advisor",
+	"category": "Master Thesis",
+	"url": "https://repositum.tuwien.at/handle/20.500.12708/11692"
+},
+{
+	"id": "ahmed2008",
+	"author": "Mansoor Ahmed",
+	"title": "Exploitation of Ontologies in Security and Privacy Domain",
+	"year": 2008,
+	"role": "Co-advisor",
+	"category": "Master Thesis",
+	"url": "https://repositum.tuwien.at/handle/20.500.12708/11844"
+}
+
+]

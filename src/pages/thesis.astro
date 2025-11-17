@@ -1,0 +1,51 @@
+---
+import FormattedDate from "@/components/FormattedDate.astro";
+import Layout from "@/layouts/Layout.astro";
+
+import ThesisIcon from '@/assets/thesis.svg'
+
+import { getCollection } from 'astro:content'
+
+const theses = (await getCollection('thesis'))
+	.sort((a, b) => b.data.year - a.data.year)
+
+const { page } = Astro.props
+---
+
+<Layout title="Thesis Supervision">
+  <div class="prose max-w-none">
+
+
+    <div class="flex items-center gap-2 mb-8">
+      <ThesisIcon class="size-12" fill="currentColor" />
+      <h1 class="text-3xl font-bold mt-4">Thesis Supervision</h1>
+    </div>
+
+    <div class="space-y-8">
+      {
+        theses.map((thesis) => (
+          <div class="card bg-base-200">
+            
+            <div class="card-body p-3">
+              <h2 class="card-title m-0 text-xl">
+                  {thesis.data.title}
+              </h2>
+              <p class="text-base m-0">{thesis.data.author} • {thesis.data.year} • {thesis.data.category} • {thesis.data.role}</p>
+
+              {thesis.data.url && 
+                <div class="card-actions justify-end m-0">
+                  <a href={thesis.data.url} target="_blank" class="btn btn-sm btn-info text-secondary-content">
+                    View Thesis
+                  </a>
+                </div>
+              }
+
+
+            </div>
+          </div>
+        ))
+      }
+    </div>
+
+  </div>
+</Layout>

@@ -24,7 +24,8 @@ const thesis = defineCollection({
         role: z.string(),
         year: z.coerce.number().int(),
         category: z.string(),
-        url: z.string(),
+        url: z.string().optional(),
+        url0: z.string().optional(),
     }),
 });
 

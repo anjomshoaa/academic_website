@@ -443,7 +443,7 @@ ER  -
 
 
 TY  - CONF
-T1  - VQS – An Ontology-based Query System for the SemanticLIFE Digital Memory Project
+T1  - VQS - An Ontology-based Query System for the SemanticLIFE Digital Memory Project
 AU  - Hoang, Hanh Huu
 AU  - Andjomshoaa, Amin
 AU  - Tjoa, A Min
@@ -974,7 +974,7 @@ ER  -
 
 
 TY  - JOUR
-T1  - Leveraging the web of data via linked widgets
+T1  - Leveraging the Web of Data via Linked Widgets
 AU  - Anjomshoaa, Amin
 AU  - Kiesling, Elmar
 AU  - Tuan, Dat Trinh
@@ -1094,6 +1094,7 @@ EP  - 4579
 SN  - 2327-4662
 PY  - 2018
 PB  - IEEE
+UR  - https://ieeexplore.ieee.org/document/8361419
 ER  - 
 
 
@@ -1121,11 +1122,12 @@ JO  - Proceedings of the 2018 ACM International Joint Conference and 2018 Intern
 SP  - 1112
 EP  - 1120
 PY  - 2018
+UR  - https://dl.acm.org/doi/pdf/10.1145/3267305.3274167
 ER  - 
 
 
 TY  - JOUR
-T1  - Quantifying the sensing power of crowd-sourced vehicle fleets
+T1  - Quantifying the Sensing Power of Crowd-sourced Vehicle Fleets
 AU  - O'Keeffe, Kevin P
 AU  - Anjomshoaa, Amin
 AU  - Strogatz, Steven H
@@ -1133,11 +1135,12 @@ AU  - Santi, Paolo
 AU  - Ratti, Carlo
 JO  - arXiv preprint arXiv:1811.10744
 PY  - 2018
+UR  - https://www.pnas.org/doi/abs/10.1073/pnas.1821667116
 ER  - 
 
 
 TY  - CONF
-T1  - Towards large-scale drive-by sensing with multi-purpose city scanner nodes
+T1  - Towards Large-scale Drive-by Sensing with Multi-purpose City Scanner Nodes
 AU  - Mora, Simone
 AU  - Anjomshoaa, Amin
 AU  - Benson, Tom
@@ -1149,6 +1152,7 @@ EP  - 748
 SN  - 1538649802
 PY  - 2019
 PB  - IEEE
+UR  - https://ieeexplore.ieee.org/abstract/document/8767186
 ER  - 
 
 
@@ -1184,6 +1188,7 @@ SP  - 102239
 SN  - 2210-6707
 PY  - 2020
 PB  - Elsevier
+UR  - https://ntrs.nasa.gov/citations/20205004238
 ER  - 
 
 
@@ -1300,6 +1305,7 @@ AU  - Anjomshoaa, Amin
 AU  - Curry, Edward
 JO  - arXiv preprint arXiv:2204.03959
 PY  - 2022
+UR  - https://arxiv.org/pdf/2204.03959
 ER  - 
 
 
@@ -1454,6 +1460,7 @@ AU  - Polleres, A
 JO  - Proceedings of the ESWC
 VL  - 2043
 PY  - 2023
+UR  - https://aic.ai.wu.ac.at/~anjomshoaa/publications/tchat-etal2023ESCW.pdf
 ER  - 
 
 
@@ -1468,6 +1475,7 @@ SP  - 67
 EP  - 73
 PY  - 2023
 PB  - Springer International Publishing Cham
+UR  - https://link.springer.com/chapter/10.1007/978-3-031-34985-0_7
 ER  - 
 
 
@@ -1493,6 +1501,7 @@ SP  - 22812
 SN  - 2045-2322
 PY  - 2025
 PB  - Nature Publishing Group UK London
+UR  - https://www.nature.com/articles/s41598-025-05676-9.pdf
 ER  - 
 
 
@@ -1542,6 +1551,7 @@ AU  - Schuster, Hannah
 AU  - Polleres, Axel
 JO  - arXiv preprint arXiv:2411.02309
 PY  - 2024
+UR  - https://arxiv.org/pdf/2411.02309
 ER  - 
 
 
@@ -1576,6 +1586,7 @@ EP  - 412
 SN  - 2352-1465
 PY  - 2025
 PB  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/S2352146525002984
 ER  - 
 
 
@@ -1607,6 +1618,7 @@ EP  - 4
 SN  - 9798331531638
 PY  - 2025
 PB  - IEEE
+UR  - https://ieeexplore.ieee.org/abstract/document/11073591
 ER  - 
 
 

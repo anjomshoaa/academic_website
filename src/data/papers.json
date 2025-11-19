@@ -61,9 +61,9 @@
         "venue": "International United Information Systems Conference",
         "year": 2008,
         "publisher": "Springer Berlin Heidelberg Berlin, Heidelberg",
+        "doi": "https://doi.org/10.1007/978-3-540-78942-0_5",
         "authors": "Amin Anjomshoaa, A Min Tjoa",
-        "pages": "37-44",
-        "doi": "https://doi.org/10.1007/978-3-540-78942-0_5"
+        "pages": "37-44"
     },
     {
         "id": 8,
@@ -296,7 +296,7 @@
     },
     {
         "id": 33,
-        "title": "VQS \u2013 An Ontology-based Query System for the SemanticLIFE Digital Memory Project",
+        "title": "VQS - An Ontology-based Query System for the SemanticLIFE Digital Memory Project",
         "venue": "On the Move to Meaningful Internet Systems, Confederated International Conference",
         "year": 2006,
         "publisher": "Berlin, Heidelberg: Springer Berlin Heidelberg",
@@ -610,7 +610,7 @@
     },
     {
         "id": 68,
-        "title": "Leveraging the web of data via linked widgets",
+        "title": "Leveraging the Web of Data via Linked Widgets",
         "venue": "Journal of Service Science Research",
         "volume": "6",
         "issue": "1",
@@ -675,6 +675,7 @@
         "issn": "2327-4662",
         "year": 2018,
         "publisher": "IEEE",
+        "url": "https://ieeexplore.ieee.org/document/8361419",
         "authors": "Amin Anjomshoaa, F\u00e1bio Duarte, Dani\u00ebl Rennings, Thomas J Matarazzo, Priyanka Desouza, Carlo Ratti",
         "pages": "4567-4579"
     },
@@ -693,23 +694,26 @@
         "title": "Challenges of drive-by iot sensing for smart cities: City scanner case study",
         "venue": "Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers",
         "year": 2018,
+        "url": "https://dl.acm.org/doi/pdf/10.1145/3267305.3274167",
         "authors": "Amin Anjomshoaa, Simone Mora, Philip Schmitt, Carlo Ratti",
         "pages": "1112-1120"
     },
     {
         "id": 77,
-        "title": "Quantifying the sensing power of crowd-sourced vehicle fleets",
+        "title": "Quantifying the Sensing Power of Crowd-sourced Vehicle Fleets",
         "venue": "arXiv preprint arXiv:1811.10744",
         "year": 2018,
+        "url": "https://www.pnas.org/doi/abs/10.1073/pnas.1821667116",
         "authors": "Kevin P O'Keeffe, Amin Anjomshoaa, Steven H Strogatz, Paolo Santi, Carlo Ratti"
     },
     {
         "id": 78,
-        "title": "Towards large-scale drive-by sensing with multi-purpose city scanner nodes",
+        "title": "Towards Large-scale Drive-by Sensing with Multi-purpose City Scanner Nodes",
         "venue": "2019 IEEE 5th World Forum on Internet of Things (WF-IoT)",
         "issn": "1538649802",
         "year": 2019,
         "publisher": "IEEE",
+        "url": "https://ieeexplore.ieee.org/abstract/document/8767186",
         "authors": "Simone Mora, Amin Anjomshoaa, Tom Benson, F\u00e1bio Duarte, Carlo Ratti",
         "pages": "743-748"
     },
@@ -733,6 +737,7 @@
         "issn": "2210-6707",
         "year": 2020,
         "publisher": "Elsevier",
+        "url": "https://ntrs.nasa.gov/citations/20205004238",
         "authors": "Priyanka DeSouza, Amin Anjomshoaa, Fabio Duarte, Ralph Kahn, Prashant Kumar, Carlo Ratti",
         "pages": "102239"
     },
@@ -816,6 +821,7 @@
         "title": "Blockchain as an enabler for transfer learning in smart environments",
         "venue": "arXiv preprint arXiv:2204.03959",
         "year": 2022,
+        "url": "https://arxiv.org/pdf/2204.03959",
         "authors": "Amin Anjomshoaa, Edward Curry"
     },
     {
@@ -908,6 +914,7 @@
         "venue": "Proceedings of the ESWC",
         "volume": "2043",
         "year": 2023,
+        "url": "https://aic.ai.wu.ac.at/~anjomshoaa/publications/tchat-etal2023ESCW.pdf",
         "authors": "Gary P Tchat, Amin Anjomshoaa, Daniil Dobriy, Fajar J Ekaputra, Elmar Kiesling, M Sabou, A Polleres"
     },
     {
@@ -916,6 +923,7 @@
         "venue": "International Conference on Advanced Information Systems Engineering",
         "year": 2023,
         "publisher": "Springer International Publishing Cham",
+        "url": "https://link.springer.com/chapter/10.1007/978-3-031-34985-0_7",
         "authors": "Amin Anjomshoaa, Hannah Schuster, Johannes Wachs, Axel Polleres",
         "pages": "67-73"
     },
@@ -936,6 +944,7 @@
         "issn": "2045-2322",
         "year": 2025,
         "publisher": "Nature Publishing Group UK London",
+        "url": "https://www.nature.com/articles/s41598-025-05676-9.pdf",
         "authors": "Hannah Schuster, Axel Polleres, Amin Anjomshoaa, Johannes Wachs",
         "pages": "22812"
     },
@@ -974,6 +983,7 @@
         "title": "Grid-Based Projection of Spatial Data into Knowledge Graphs",
         "venue": "arXiv preprint arXiv:2411.02309",
         "year": 2024,
+        "url": "https://arxiv.org/pdf/2411.02309",
         "authors": "Amin Anjomshoaa, Hannah Schuster, Axel Polleres"
     },
     {
@@ -994,6 +1004,7 @@
         "issn": "2352-1465",
         "year": 2025,
         "publisher": "Elsevier",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2352146525002984",
         "authors": "Shahrom Sohi, Gulliver Wutz, Richard Hrivn\u00e1k, Felix Reiter, David Pichler, Amin Anjomshoaa, Axel Polleres",
         "pages": "405-412"
     },
@@ -1015,6 +1026,7 @@
         "issn": "9798331531638",
         "year": 2025,
         "publisher": "IEEE",
+        "url": "https://ieeexplore.ieee.org/abstract/document/11073591",
         "authors": "Rafael Kupsa, Yazzed Abdalla, Stefan Gindl, Amin Anjomshoaa, Markus Tauber",
         "pages": "1-4"
     },

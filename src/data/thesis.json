@@ -16,7 +16,7 @@
 	"category": "Bachelor Thesis",
 	"year": 2025,
 	"role" : "Advisor",
-	"url0": "https://aic.ai.wu.ac.at/~anjomshoaa/thesis/massmann2025.pdf"
+	"url": "https://aic.ai.wu.ac.at/~anjomshoaa/thesis/massmann2025.pdf"
 },
 {
 	"id": "belodedova2025",
@@ -43,7 +43,7 @@
 	"category": "Bachelor Thesis",
 	"year": 2025,
 	"role" : "Advisor",
-	"url0": "https://aic.ai.wu.ac.at/~anjomshoaa/thesis/zipperle2025.pdf"
+	"url": "https://aic.ai.wu.ac.at/~anjomshoaa/thesis/zipperle2025.pdf"
 },
 {
 	"id": "prokesch2025",
@@ -88,7 +88,7 @@
 	"category": "Bachelor Thesis",
 	"year": 2025,
 	"role" : "Advisor",
-	"url0": "https://aic.ai.wu.ac.at/~anjomshoaa/thesis/schuster2025.pdf"
+	"url": "https://aic.ai.wu.ac.at/~anjomshoaa/thesis/schuster2025.pdf"
 },
 {
 	"id": "vandak2025",
@@ -97,7 +97,7 @@
 	"category": "Bachelor Thesis",
 	"year": 2025,
 	"role" : "Advisor",
-	"url0": "https://aic.ai.wu.ac.at/~anjomshoaa/thesis/vandak2025.pdf"
+	"url": "https://aic.ai.wu.ac.at/~anjomshoaa/thesis/vandak2025.pdf"
 },
 {   
 	"id": "wetz2016",

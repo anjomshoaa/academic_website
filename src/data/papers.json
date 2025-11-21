@@ -1,11 +1,12 @@
 [
     {
         "id": 1,
+        "type": "Journal Paper",
         "title": "Be Open or Competitive? Exploring the differences in the adoption of (open) data sharing in European railway public transport",
         "venue": "Transportation Research Interdisciplinary Perspectives",
         "volume": "34",
         "year": 2025,
-        "issn": "2590-1982",
+        "isbn": "2590-1982",
         "doi": "https://doi.org/10.1016/j.trip.2025.101698",
         "url": "https://www.sciencedirect.com/science/article/pii/S259019822500377X",
         "authors": "Shahrom Sohi, Sri Harikrishnan, Amin Anjomshoaa, Axel Polleres",
@@ -13,9 +14,10 @@
     },
     {
         "id": 2,
+        "type": "Conference Paper",
         "title": "SAMOA-A semi-automated ontology alignment method for systems integration in safety-critical environments",
         "venue": "2009 International Conference on Complex, Intelligent and Software Intensive Systems",
-        "issn": "1424435692",
+        "isbn": "1424435692",
         "year": 2009,
         "publisher": "IEEE",
         "authors": "Thomas Moser, Kathrin Schimper, Richard Mordinyi, Amin Anjomshoaa",
@@ -23,6 +25,7 @@
     },
     {
         "id": 3,
+        "type": "Conference Paper",
         "title": "A smart indoor navigation solution based on building information model and google android",
         "venue": "International Conference on Computers for Handicapped Persons",
         "year": 2008,
@@ -32,6 +35,7 @@
     },
     {
         "id": 4,
+        "type": "Conference Paper",
         "title": "Exploitation of semantic web technology in ERP systems",
         "venue": "Research and Practical Issues of Enterprise Information Systems: IFIP TC 8 International Conference on Research and Practical Issues of Enterprise Information Systems (CONFENIS 2006)",
         "year": 2006,
@@ -41,6 +45,7 @@
     },
     {
         "id": 5,
+        "type": "Conference Paper",
         "title": "Exploiting mashup architecture in business use cases",
         "venue": "International Conference on Network-Based Information Systems, Indianapolis, USA, pp. xx\u2013xxvii. IEEE",
         "year": 2009,
@@ -48,6 +53,7 @@
     },
     {
         "id": 6,
+        "type": "Conference Paper",
         "title": "Improving web form accessibility using semantic xforms for people with cognitive impairments",
         "venue": "International Conference on Computers for Handicapped Persons",
         "year": 2008,
@@ -57,6 +63,7 @@
     },
     {
         "id": 7,
+        "type": "Conference Paper",
         "title": "Integration of Semantic XForms and Personal Web Services as a Tool to Bridge the Gap between Personal Desktops and Global Business Processes",
         "venue": "International United Information Systems Conference",
         "year": 2008,
@@ -67,6 +74,7 @@
     },
     {
         "id": 8,
+        "type": "Dissertation",
         "title": "Integration of Personal Services into Global Vusiness",
         "venue": "Dissertation",
         "year": 2009,
@@ -75,6 +83,7 @@
     },
     {
         "id": 9,
+        "type": "Conference Paper",
         "title": "User Data Privacy in Web Services Context Using Semantic Desktop-SemanticLIFE Case Study.",
         "venue": "The ninth International Conference on Information Integration and Web-based Applications & Services (iiWAS)",
         "year": 2007,
@@ -83,9 +92,10 @@
     },
     {
         "id": 10,
+        "type": "Conference Paper",
         "title": "Towards an ontology-based risk assessment in collaborative environment using the semanticlife",
         "venue": "The Second International Conference on Availability, Reliability and Security (ARES'07)",
-        "issn": "0769527752",
+        "isbn": "0769527752",
         "year": 2007,
         "publisher": "IEEE",
         "authors": "Mansoor Ahmed, Amin Anjomshoaa, Tho Manh Nguyen, A Min Tjoa",
@@ -93,9 +103,10 @@
     },
     {
         "id": 11,
+        "type": "Conference Paper",
         "title": "Privacy aspects of mashup architecture",
         "venue": "2010 IEEE Second International Conference on Social Computing",
-        "issn": "1424484391",
+        "isbn": "1424484391",
         "year": 2010,
         "publisher": "IEEE",
         "authors": "Gerald Bader, Amin Anjomshoaa, A Min Tjoa",
@@ -103,6 +114,7 @@
     },
     {
         "id": 12,
+        "type": "Conference Paper",
         "title": "Web service based business processes automation using semantic personal information management systems\u2013the semantic life case",
         "venue": "International Conference on Practical Aspects of Knowledge Management",
         "year": 2006,
@@ -112,6 +124,7 @@
     },
     {
         "id": 13,
+        "type": "Conference Paper",
         "title": "A SOM-based technique for a user-centric content extraction and classification of Web 2.0 with a special consideration of security aspects",
         "venue": "International Conference on Knowledge Science, Engineering and Management",
         "year": 2010,
@@ -121,9 +134,10 @@
     },
     {
         "id": 14,
+        "type": "Conference Paper",
         "title": "Using Semantic Personal Information Management Systems-The Semantic Life Case",
         "venue": "Practical Aspects of Knowledge Management",
-        "issn": "3540499989",
+        "isbn": "3540499989",
         "year": 2006,
         "publisher": "Springer",
         "authors": "A Min Tjoa, Amin Anjomshoaa, Manh Tho Nguyen, Ferial Shayeganfar",
@@ -131,9 +145,10 @@
     },
     {
         "id": 15,
+        "type": "Conference Paper",
         "title": "A Decision Framework for Discovery and Integration of Cloud Services",
         "venue": "Proceedings of the 2011 Fourth IEEE International Conference on Utility and Cloud Computing, UCC 2011",
-        "issn": "0769545920",
+        "isbn": "0769545920",
         "year": 2011,
         "publisher": "IEEE Computer Society",
         "authors": "Amirreza Tahamtan, Amin Anjomshoaa, S Amir Beheshti, A Min Tjoa",
@@ -141,6 +156,7 @@
     },
     {
         "id": 16,
+        "type": "Book Chapter",
         "title": "A Qualitative Resource Utilization Benchmarking for Mobile Applications",
         "venue": "Innovations in Mobile Multimedia Communications and Applications: New Technologies",
         "year": 2011,
@@ -150,6 +166,7 @@
     },
     {
         "id": 17,
+        "type": "Book Chapter",
         "title": "Browsing and Visualization of Semantic Web Content-From Web to the Desktop",
         "venue": "Knowledge Management: Innovation, Technology and Cultures",
         "year": 2007,
@@ -158,6 +175,7 @@
     },
     {
         "id": 18,
+        "type": "Conference Paper",
         "title": "How the cloud computing paradigm could shape the future of enterprise information processing",
         "venue": "Proceedings of the 9th International Conference on Advances in Mobile Computing and Multimedia",
         "year": 2011,
@@ -166,6 +184,7 @@
     },
     {
         "id": 19,
+        "type": "Conference Paper",
         "title": "Combining and integrating advanced IT-concepts with semantic web technology mashups architecture case study",
         "venue": "Asian Conference on Intelligent Information and Database Systems",
         "year": 2010,
@@ -175,6 +194,7 @@
     },
     {
         "id": 20,
+        "type": "Journal Paper",
         "title": "Exploiting Mashup Architecture in Business Use Cases",
         "venue": "2009 International Conference on Network-Based Information Systems",
         "year": 2009,
@@ -184,6 +204,7 @@
     },
     {
         "id": 21,
+        "type": "Conference Paper",
         "title": "Context-based privacy management of personal information using semantic desktop: SemanticLIFE case study",
         "venue": "Proceedings of the 10th International Conference on Information Integration and Web-based Applications & Services",
         "year": 2008,
@@ -192,6 +213,7 @@
     },
     {
         "id": 22,
+        "type": "Journal Paper",
         "title": "Towards an Ontology-based Risk Assessment in Collaborative Environment Using the SemanticLIFE",
         "year": 2007,
         "venue": "The Second International Conference on Availability, Reliability and Security (ARES 2007)",
@@ -201,6 +223,7 @@
     },
     {
         "id": 23,
+        "type": "Conference Paper",
         "title": "A framework for long-term archiving of pervasive device information",
         "venue": "Proceedings of the 9th international conference on advances in mobile computing and multimedia",
         "year": 2011,
@@ -209,6 +232,7 @@
     },
     {
         "id": 24,
+        "type": "Conference Paper",
         "title": "A lightweight data integration architecture based on semantic annotated RSS feeds",
         "venue": "On the Move to Meaningful Internet Systems, Confederated International Conference",
         "year": 2011,
@@ -218,11 +242,12 @@
     },
     {
         "id": 25,
+        "type": "Journal Paper",
         "title": "Self-monitoring in social networks",
         "venue": "International Journal of Intelligent Information and Database Systems",
         "volume": "6",
         "issue": "4",
-        "issn": "1751-5858",
+        "isbn": "1751-5858",
         "year": 2012,
         "publisher": "Inderscience Publishers Ltd",
         "authors": "Amin Anjomshoaa, Khue Vo Sao, Amirreza Tahamtan, A Min Tjoa, Edgar Weippl",
@@ -230,6 +255,7 @@
     },
     {
         "id": 26,
+        "type": "Journal Paper",
         "title": "Exploiting Ontology for Software License Agreements",
         "venue": "International Journal of Software and Informatics",
         "year": 2010,
@@ -240,6 +266,7 @@
     },
     {
         "id": 27,
+        "type": "Conference Paper",
         "title": "Exploitation of Semantic Building Model in Indoor Navigation Systems",
         "venue": "EGU General Assembly Conference Abstracts",
         "year": 2009,
@@ -248,6 +275,7 @@
     },
     {
         "id": 28,
+        "type": "Conference Paper",
         "title": "Context Oriented Analysis of Web 2.0 Social Network Contents - MindMeister Use-case",
         "venue": "Proceedings of the Asian Conference on Intelligent Information and Database Systems (ACIIDS 2010)",
         "year": 2010,
@@ -257,9 +285,10 @@
     },
     {
         "id": 29,
+        "type": "Conference Paper",
         "title": "Towards an Ontology-Based Solution for Managing License Agreement Using Semantic Desktop",
         "venue": "2010 International Conference on Availability, Reliability and Security",
-        "issn": "1424458803",
+        "isbn": "1424458803",
         "year": 2010,
         "publisher": "IEEE",
         "authors": "Mansoor Ahmed, Amin Anjomshoaa, Muhammad Asfandeyar, A Min Tjoa, Abid Khan",
@@ -267,9 +296,10 @@
     },
     {
         "id": 30,
+        "type": "Conference Paper",
         "title": "Semantic Web challenges and new requirements",
         "venue": "16th International Workshop on Database and Expert Systems Applications (DEXA'05)",
-        "issn": "0769524249",
+        "isbn": "0769524249",
         "year": 2005,
         "publisher": "IEEE",
         "authors": "A Min Tjoa, Amin Andjomshoaa, Ferial Shayeganfar, Roland Wagner",
@@ -277,6 +307,7 @@
     },
     {
         "id": 31,
+        "type": "Conference Paper",
         "title": "Exploiting sensecam for helping the blind in business negotiations",
         "venue": "International Conference on Computers for Handicapped Persons",
         "year": 2006,
@@ -286,9 +317,10 @@
     },
     {
         "id": 32,
+        "type": "Conference Paper",
         "title": "Towards a new approach for information retrieval in the semanticlife digital memory framework",
         "venue": "2006 IEEE/WIC/ACM International Conference on Web Intelligence (WI 2006 Main Conference Proceedings)(WI'06)",
-        "issn": "0769527477",
+        "isbn": "0769527477",
         "year": 2006,
         "publisher": "IEEE",
         "authors": "Hanh Huu Hoang, Amin Andjomshoaa, A Min Tjoa",
@@ -296,6 +328,7 @@
     },
     {
         "id": 33,
+        "type": "Conference Paper",
         "title": "VQS - An Ontology-based Query System for the SemanticLIFE Digital Memory Project",
         "venue": "On the Move to Meaningful Internet Systems, Confederated International Conference",
         "year": 2006,
@@ -305,6 +338,7 @@
     },
     {
         "id": 34,
+        "type": "Conference Paper",
         "title": "A front-end approach for user query generation and information retrieval in the semanticlife framework",
         "venue": "The eighth International Conference on Information Integration and Web-based Applications & Services (iiWAS)",
         "year": 2006,
@@ -313,21 +347,23 @@
     },
     {
         "id": 35,
+        "type": "Journal Paper",
         "title": "Implementation of an IFD Library Using Semantic Web Technologies: A Case Study",
         "venue": "ECPPM 2008 eWork and eBusiness in Architecture, Engineering and Construction",
         "publisher": "CRC Press, ISBN: 978-0-415-48245-5",
-        "issn": "0429207174",
+        "isbn": "0429207174",
         "year": 2008,
         "authors": "Ferial Shayeganfar, Ardeshir Mahdavi, George Suter, Amin Anjomshoaa",
         "pages": "539-544"
     },
     {
         "id": 36,
+        "type": "Journal Paper",
         "title": "Proposing a context-aware enterprise mashup readiness assessment framework",
         "venue": "Information Technology and Management",
         "volume": "13",
         "issue": "4",
-        "issn": "1385-951X",
+        "isbn": "1385-951X",
         "year": 2012,
         "publisher": "Springer US Boston",
         "authors": "Gerald Bader, Wu He, Amin Anjomshoaa, A Min Tjoa",
@@ -335,9 +371,10 @@
     },
     {
         "id": 37,
+        "type": "Journal Paper",
         "title": "SEMERGY: Semantic web technology support for comprehensive building design assessment",
         "venue": "eWork and eBusiness in Architecture, Engineering and Construction",
-        "issn": "0415621283",
+        "isbn": "0415621283",
         "year": 2012,
         "publisher": "Taylor & Francis",
         "authors": "Ardeshir Mahdavi, Ulrich Pont, Ferial Shayeganfar, Neda Ghiassi, Amin Anjomshoaa, Stefan Fenz, Johannes Heurix, Thomas Neubauer, A Min Tjoa",
@@ -345,6 +382,7 @@
     },
     {
         "id": 38,
+        "type": "Conference Paper",
         "title": "A context-aware mashup integration guideline for enterprise 2.0",
         "venue": "International Conference on Availability, Reliability, and Security",
         "year": 2012,
@@ -354,9 +392,10 @@
     },
     {
         "id": 39,
+        "type": "Conference Paper",
         "title": "A cloud repository and discovery framework based on a unified business and cloud service ontology",
         "venue": "2012 IEEE Eighth World Congress on Services",
-        "issn": "1467330531",
+        "isbn": "1467330531",
         "year": 2012,
         "publisher": "IEEE",
         "authors": "Amirreza Tahamtan, Seyed Amir Beheshti, Amin Anjomshoaa, A Min Tjoa",
@@ -364,6 +403,7 @@
     },
     {
         "id": 40,
+        "type": "Journal Paper",
         "title": "Improving the usability of energy simulation applications in processing common building performance inquiries",
         "venue": "Simulace Budov a Techniky Prostredi. Brno: Ceska Technika-nakladatelstvi",
         "year": 2012,
@@ -371,6 +411,7 @@
     },
     {
         "id": 41,
+        "type": "Conference Paper",
         "title": "Using Semantic Technologies for Energy-efficient Building Planning",
         "venue": "2012 IEEE Green Technologies Conference",
         "year": 2012,
@@ -379,6 +420,7 @@
     },
     {
         "id": 42,
+        "type": "Journal Paper",
         "title": "Exploring the utility of semantic web technology in building performance simulation",
         "venue": "Proceedings of BauSIM",
         "volume": "2012",
@@ -388,17 +430,19 @@
     },
     {
         "id": 43,
+        "type": "Journal Paper",
         "title": "Exploiting ontology for software license agreements",
         "venue": "International Journal of Software and Informatics",
         "volume": "4",
         "issue": "1",
-        "issn": "1673-7288",
+        "isbn": "1673-7288",
         "year": 2010,
         "authors": "Muhammad Asfand-E-Yar, Amin Anjomshoaa, Edgar Weippl, A Min Tjoa",
         "pages": "89-100"
     },
     {
         "id": 44,
+        "type": "Conference Paper",
         "title": "Towards security-enhanced and privacy-preserving mashup compositions",
         "venue": "IFIP International Information Security Conference",
         "year": 2013,
@@ -408,6 +452,7 @@
     },
     {
         "id": 45,
+        "type": "Conference Paper",
         "title": "An ontology-aided optimization approach to eco-efficient building design",
         "venue": "Proceedings of the 13th Conference of International Building Performance Simulation Association",
         "year": 2013,
@@ -416,6 +461,7 @@
     },
     {
         "id": 46,
+        "type": "Conference Paper",
         "title": "Austrian Environmental Data Consumption-A Mashup-based Approach",
         "venue": "Proceedings of the 1st International Workshop on Semantic Machine Learning and Linked Open Data (SML2OD) for Agricultural and Environmental Informatics",
         "year": 2013,
@@ -424,6 +470,7 @@
     },
     {
         "id": 47,
+        "type": "Conference Paper",
         "title": "Linked widgets: An approach to exploit open government data",
         "venue": "Proceedings of International Conference on Information Integration and Web-based Applications & Services",
         "publisher": "ACM, ISBN: 978-1-4503-2113-6",
@@ -433,9 +480,10 @@
     },
     {
         "id": 48,
+        "type": "Conference Paper",
         "title": "A Survey on Environmental Open Data in Austria",
         "venue": "2013 IEEE International Conference on Systems, Man, and Cybernetics",
-        "issn": "1479906522",
+        "isbn": "1479906522",
         "year": 2013,
         "publisher": "IEEE",
         "authors": "Peter Wetz, Amin Anjomshoaa, A Min Tjoa",
@@ -443,6 +491,7 @@
     },
     {
         "id": 49,
+        "type": "Conference Paper",
         "title": "A Data Mashup Engine for Smartphones Based on XProc",
         "venue": "Proceedings of International Conference on Advances in Mobile Computing & Multimedia",
         "year": 2013,
@@ -451,10 +500,11 @@
     },
     {
         "id": 50,
+        "type": "Journal Paper",
         "title": "SEMERGY: Performance-guided building design and refurbishment within a semantically augmented optimization environment",
         "venue": "Advanced Materials Research",
         "volume": "899",
-        "issn": "1662-8985",
+        "isbn": "1662-8985",
         "year": 2014,
         "publisher": "Trans Tech Publications Ltd",
         "authors": "Dawid Wlosiuk, Neda Ghaissi, Ulrich Pont, Ferial Shayeganfar, Ardeshir Mahdavi, Stefan Fenz, Johannes Heurix, Amin Anjomshoaa, A Min Tjoa",
@@ -462,6 +512,7 @@
     },
     {
         "id": 51,
+        "type": "Conference Paper",
         "title": "Towards semantic mashup tools for big data analysis",
         "venue": "Information and Communication Technology-EurAsia Conference",
         "year": 2014,
@@ -471,9 +522,10 @@
     },
     {
         "id": 52,
+        "type": "Conference Paper",
         "title": "Robustness against data availability problems in urban energy planning support software",
         "venue": "2014 IEEE Eighth International Conference on Research Challenges in Information Science (RCIS)",
-        "issn": "1479923931",
+        "isbn": "1479923931",
         "year": 2014,
         "publisher": "IEEE",
         "authors": "Najd Ouhajjou, Wolfgang Loibl, Peter Palensky, Amin Anjomshoaa, Stefan Fenz, A Min Tjoa",
@@ -481,6 +533,7 @@
     },
     {
         "id": 53,
+        "type": "Conference Paper",
         "title": "Open Linked Widgets Mashup Platform.",
         "venue": "AIMashup@ ESWC",
         "year": 2014,
@@ -488,6 +541,7 @@
     },
     {
         "id": 54,
+        "type": "Conference Paper",
         "title": "Towards an Environmental Information System for Semantic Stream Data.",
         "venue": "EnviroInfo",
         "year": 2014,
@@ -496,6 +550,7 @@
     },
     {
         "id": 55,
+        "type": "Conference Paper",
         "title": "Semantic-Aware Mashups for Personal Resources in SemanticLIFE and SocialLIFE",
         "venue": "International Conference on Availability, Reliability, and Security",
         "year": 2014,
@@ -505,9 +560,10 @@
     },
     {
         "id": 56,
+        "type": "Conference Paper",
         "title": "Toward constructive evidence of linked open data in AEC domain",
         "venue": "Proceedings of the 10th European Conference on Product and Process Modelling (ECPPM2014), Vienna, Austria, 17-19 September 2014",
-        "issn": "1138027103",
+        "isbn": "1138027103",
         "year": 2014,
         "publisher": "Taylor & Francis-Balkema",
         "authors": "Amin Anjomshoaa, Ferial Shayeganfar, Ardeshir Mahdavi, A Min Tjoa",
@@ -515,9 +571,10 @@
     },
     {
         "id": 57,
+        "type": "Journal Paper",
         "title": "SEMERGY: Utilizing semantic web technologies for performance-guided building design optimization",
         "venue": "eWork and eBusiness in Architecture, Engineering and Construction: ECPPM 2014",
-        "issn": "1138027103",
+        "isbn": "1138027103",
         "year": 2014,
         "publisher": "CRC Press",
         "authors": "U Pont, N Ghiassi, F Shayeganfar, A Mahdavi, S Fenz, J Heurix, A Anjomshoaa",
@@ -525,6 +582,7 @@
     },
     {
         "id": 58,
+        "type": "Conference Paper",
         "title": "A Drag-and-block Approach for Linked Open Data Exploration.",
         "venue": "Proceedings of the 5th International Workshop on Consuming Linked Data (COLD 2014), co-located with the 13th International Semantic Web Conference (ISWC 2014)",
         "publisher": "CEUR-WS",
@@ -534,6 +592,7 @@
     },
     {
         "id": 59,
+        "type": "Conference Paper",
         "title": "Implementing Linked Widgets: lessons learned for Linked Data developers.",
         "venue": "ISWC (Developers Workshop)",
         "year": 2014,
@@ -542,6 +601,7 @@
     },
     {
         "id": 60,
+        "type": "Conference Paper",
         "title": "Open Mashup Platform-A Smart Data Exploration Environment.",
         "venue": "ISWC (Posters & Demos)",
         "year": 2014,
@@ -550,6 +610,7 @@
     },
     {
         "id": 61,
+        "type": "Conference Paper",
         "title": "Linked widgets platform: Lowering the barrier for open data exploration",
         "venue": "European Semantic Web Conference",
         "year": 2014,
@@ -559,6 +620,7 @@
     },
     {
         "id": 62,
+        "type": "Conference Paper",
         "title": "Blending Building Information with Smart City Data",
         "venue": "Proceedings of the Fifth Workshop on Semantics for Smarter Cities a Workshop at the 13th International Semantic Web Conference (ISWC 2014)",
         "publisher": "CEUR-WS",
@@ -570,6 +632,7 @@
     },
     {
         "id": 63,
+        "type": "Conference Paper",
         "title": "Blending the sketched use case scenario with license agreements using semantics",
         "venue": "International Conference on Knowledge Science, Engineering and Management",
         "year": 2009,
@@ -579,6 +642,7 @@
     },
     {
         "id": 64,
+        "type": "Conference Paper",
         "title": "Multiscale Exploration of Spatial Statistical Datasets: A Linked Data Mashup Approach.",
         "venue": "SemStats@ ISWC",
         "year": 2014,
@@ -586,6 +650,7 @@
     },
     {
         "id": 65,
+        "type": "Conference Paper",
         "title": "Exploring linked statistical data using linked widgets",
         "venue": "Proceedings of the 5th Symposium on Information and Communication Technology",
         "year": 2014,
@@ -594,6 +659,7 @@
     },
     {
         "id": 66,
+        "type": "Conference Paper",
         "title": "Widget-based Exploration of Linked Statistical Data Spaces.",
         "venue": "DATA",
         "year": 2014,
@@ -602,6 +668,7 @@
     },
     {
         "id": 67,
+        "type": "Conference Paper",
         "title": "A web-based platform for dynamic integration of heterogeneous data",
         "venue": "Proceedings of the 16th International Conference on Information Integration and Web-based Applications & Services",
         "year": 2014,
@@ -610,11 +677,12 @@
     },
     {
         "id": 68,
+        "type": "Journal Paper",
         "title": "Leveraging the Web of Data via Linked Widgets",
         "venue": "Journal of Service Science Research",
         "volume": "6",
         "issue": "1",
-        "issn": "2093-0720",
+        "isbn": "2093-0720",
         "year": 2014,
         "publisher": "The Society of Service Science Heidelberg",
         "authors": "Amin Anjomshoaa, Elmar Kiesling, Dat Trinh Tuan, Ba-Lam Do, Peter Wetz, A Min Tjoa",
@@ -622,9 +690,10 @@
     },
     {
         "id": 69,
+        "type": "Conference Paper",
         "title": "A comprehensive building model for performance-guided Decision Support",
         "venue": "Proceedings of the 2nd Central European Symposium on Building Physics 9-11 September 2013, Vienna, Austria",
-        "issn": "385437321X",
+        "isbn": "385437321X",
         "year": 2013,
         "publisher": "\u00d6KK-Editions",
         "authors": "Neda Ghiassi, Ferial Shayeganfar, Ulrich Pont, Ardeshir Mahdavi, Johannes Heurix, Stefan Fenz, Amin Anjomshoaa, A Min Tjoa",
@@ -632,6 +701,7 @@
     },
     {
         "id": 70,
+        "type": "Conference Paper",
         "title": "Towards an Environmental Decision-Making System: A Vocabulary to Enrich Stream Data",
         "venue": "Advances and New Trends in Environmental and Energy Informatics: Selected and Extended Contributions from the 28th International Conference on Informatics for Environmental Protection",
         "year": 2016,
@@ -641,6 +711,7 @@
     },
     {
         "id": 71,
+        "type": "Journal Paper",
         "title": "An Ontology-based Urban Energy Planning Support: Building-Integrated Solar PV",
         "venue": "Architecture, Engineering, and Construction; Mahdavi, A., Martens, B., Scherer, R., Eds",
         "year": 2014,
@@ -649,9 +720,10 @@
     },
     {
         "id": 72,
+        "type": "Conference Paper",
         "title": "Recent advances in SEMERGY: A semantically enriched optimization environment for performance-guided building design and refurbishment",
         "venue": "Proceedings of the 2nd Central European Symposium on Building Physics 9-11 September 2013, Vienna, Austria",
-        "issn": "385437321X",
+        "isbn": "385437321X",
         "year": 2013,
         "publisher": "\u00d6KK-Editions",
         "authors": "Ulrich Pont, Ferial Shayeganfar, Neda Ghiassi, Mahnameh Taheri, Christian Sustr, Ardeshir Mahdavi, Johannes Heurix, Stefan Fenz, Thomas Neubauer, A Min Tjoa",
@@ -659,6 +731,7 @@
     },
     {
         "id": 73,
+        "type": "Conference Paper",
         "title": "Quantifying the Anthropogenic Heat in Urban Areas Using Thermal Images",
         "venue": "International Conference on Computational Science and Computational Intelligence (CSCI)",
         "year": 2016,
@@ -668,11 +741,12 @@
     },
     {
         "id": 74,
+        "type": "Journal Paper",
         "title": "City scanner: Building and scheduling a mobile sensing platform for smart city services",
         "venue": "IEEE Internet of things Journal",
         "volume": "5",
         "issue": "6",
-        "issn": "2327-4662",
+        "isbn": "2327-4662",
         "year": 2018,
         "publisher": "IEEE",
         "url": "https://ieeexplore.ieee.org/document/8361419",
@@ -681,6 +755,7 @@
     },
     {
         "id": 75,
+        "type": "Conference Paper",
         "title": "Semantic Enrichment of Search Result: the Coupling of Semantic Store and Google Services",
         "venue": "8th International Conference on Information Integration and Web-based Applications & Services (iiWAS2006)",
         "issue": "MoMM2006 & iiWAS2006 Workshops Proceedin",
@@ -691,6 +766,7 @@
     },
     {
         "id": 76,
+        "type": "Conference Paper",
         "title": "Challenges of drive-by iot sensing for smart cities: City scanner case study",
         "venue": "Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers",
         "year": 2018,
@@ -700,6 +776,7 @@
     },
     {
         "id": 77,
+        "type": "Journal Paper",
         "title": "Quantifying the Sensing Power of Crowd-sourced Vehicle Fleets",
         "venue": "arXiv preprint arXiv:1811.10744",
         "year": 2018,
@@ -708,9 +785,10 @@
     },
     {
         "id": 78,
+        "type": "Conference Paper",
         "title": "Towards Large-scale Drive-by Sensing with Multi-purpose City Scanner Nodes",
         "venue": "2019 IEEE 5th World Forum on Internet of Things (WF-IoT)",
-        "issn": "1538649802",
+        "isbn": "1538649802",
         "year": 2019,
         "publisher": "IEEE",
         "url": "https://ieeexplore.ieee.org/abstract/document/8767186",
@@ -719,11 +797,12 @@
     },
     {
         "id": 79,
+        "type": "Journal Paper",
         "title": "Quantifying the sensing power of vehicle fleets",
         "venue": "Proceedings of the National Academy of Sciences",
         "volume": "116",
         "issue": "26",
-        "issn": "0027-8424",
+        "isbn": "0027-8424",
         "year": 2019,
         "publisher": "National Academy of Sciences",
         "authors": "Kevin P O\u2019Keeffe, Amin Anjomshoaa, Steven H Strogatz, Paolo Santi, Carlo Ratti",
@@ -731,10 +810,11 @@
     },
     {
         "id": 80,
+        "type": "Journal Paper",
         "title": "Air quality monitoring using mobile low-cost sensors mounted on trash-trucks: Methods development and lessons learned",
         "venue": "Sustainable Cities and Society",
         "volume": "60",
-        "issn": "2210-6707",
+        "isbn": "2210-6707",
         "year": 2020,
         "publisher": "Elsevier",
         "url": "https://ntrs.nasa.gov/citations/20205004238",
@@ -743,6 +823,7 @@
     },
     {
         "id": 81,
+        "type": "Journal Paper",
         "title": "Greening the Scientific Conferences",
         "venue": "SMART 2016",
         "year": 2016,
@@ -751,11 +832,12 @@
     },
     {
         "id": 82,
+        "type": "Journal Paper",
         "title": "Quantifying the spatio-temporal potential of drive-by sensing in smart cities",
         "venue": "Journal of Urban Technology",
         "volume": "28",
         "issue": "1-2",
-        "issn": "1063-0732",
+        "isbn": "1063-0732",
         "year": 2021,
         "publisher": "Routledge",
         "authors": "Amin Anjomshoaa, Paolo Santi, Fabio Duarte, Carlo Ratti",
@@ -763,6 +845,7 @@
     },
     {
         "id": 83,
+        "type": "Conference Paper",
         "title": "Inter-space machine learning in smart environments",
         "venue": "International Cross-Domain Conference for Machine Learning and Knowledge Extraction",
         "year": 2020,
@@ -772,9 +855,10 @@
     },
     {
         "id": 84,
+        "type": "Conference Paper",
         "title": "Exploiting SenseCam for helping the blind in business negotiations",
         "venue": "Computers Helping People with Special Needs",
-        "issn": "3540360204",
+        "isbn": "3540360204",
         "year": 2006,
         "publisher": "Springer",
         "authors": "A Min Tjoa, Amin Anjomshoaa, Shuaib Karim",
@@ -782,11 +866,12 @@
     },
     {
         "id": 85,
+        "type": "Journal Paper",
         "title": "Transfer learning in smart environments",
         "venue": "Machine Learning and Knowledge Extraction",
         "volume": "3",
         "issue": "2",
-        "issn": "2504-4990",
+        "isbn": "2504-4990",
         "year": 2021,
         "publisher": "MDPI",
         "authors": "Amin Anjomshoaa, Edward Curry",
@@ -794,6 +879,7 @@
     },
     {
         "id": 86,
+        "type": "Journal Paper",
         "title": "Fisn semantic architecture document",
         "venue": "Frequentis AG",
         "year": 2007,
@@ -801,6 +887,7 @@
     },
     {
         "id": 87,
+        "type": "Conference Paper",
         "title": "A transfer learning framework for iot-enabled environments",
         "venue": "Proceedings of the International Conference on Internet-of-Things Design and Implementation",
         "year": 2021,
@@ -809,6 +896,7 @@
     },
     {
         "id": 88,
+        "type": "Journal Paper",
         "title": "Air Quality Monitoring Case Study Using Mobile Low-cost Sensors mounted on Trash-Trucks: Methods Development and Lessons Learned",
         "venue": "Sustainable Cities and Society",
         "volume": "60",
@@ -818,6 +906,7 @@
     },
     {
         "id": 89,
+        "type": "Journal Paper",
         "title": "Blockchain as an enabler for transfer learning in smart environments",
         "venue": "arXiv preprint arXiv:2204.03959",
         "year": 2022,
@@ -826,6 +915,7 @@
     },
     {
         "id": 90,
+        "type": "Conference Paper",
         "title": "User Data Privacy in Web Services Context Using Semantic Desktop-SemanticLIFE Case Study",
         "venue": "Proceedings of The 9th International Conference on Information Integration and Web-based Applications and Services (iiWAS2007)",
         "year": 2007,
@@ -833,9 +923,10 @@
     },
     {
         "id": 91,
+        "type": "Conference Paper",
         "title": "A Data Mashup Engine for Smartphones Based on XProc",
         "venue": "Proceedings of the 11th International Conference on Advances in Mobile Computing & Multimedia",
-        "issn": "1450321062",
+        "isbn": "1450321062",
         "year": 2013,
         "publisher": "ACM",
         "authors": "Amin Anjomshoaa, A Min Tjoa, Harald Hofst\u00e4tter",
@@ -843,9 +934,10 @@
     },
     {
         "id": 92,
+        "type": "Conference Paper",
         "title": "Utilising Web Service Based Business Processes Automation by Semantic Personal Information Management Systems-The SemanticLife Case",
         "venue": "6th International Conference Practical Aspects of Knowledge Management (PAKM2006)",
-        "issn": "3540499989",
+        "isbn": "3540499989",
         "year": 2006,
         "publisher": "Springer LNCS",
         "authors": "Manh Tho Nguyen, A Min Tjoa, Amin Anjomshoaa, Ferial Shayeganfar",
@@ -853,6 +945,7 @@
     },
     {
         "id": 93,
+        "type": "Conference Paper",
         "title": "User and Context Modeling in SemanticLife System",
         "venue": "Proceedings of the First International Conference on Information Processing",
         "year": 2007,
@@ -862,6 +955,7 @@
     },
     {
         "id": 94,
+        "type": "Conference Paper",
         "title": "Semergy-neue Ans\u00e4tze in der Planung energieeffizienter Geb\u00e4ude",
         "venue": "11. ZIG-Planerseminar-Handouts",
         "year": 2015,
@@ -869,9 +963,10 @@
     },
     {
         "id": 95,
+        "type": "Conference Paper",
         "title": "Multi-objective optimization in the SEMERGY environment for sustainable building design and retrofit",
         "venue": "Proceedings of the 2nd Central European Symposium on Building Physics 9-11 September 2013, Vienna, Austria",
-        "issn": "385437321X",
+        "isbn": "385437321X",
         "year": 2013,
         "publisher": "\u00d6KK-Editions",
         "authors": "Johannes Heurix, Stefan Fenz, Amin Anjomshoaa, Thomas Neubauer, A Min Tjoa, Mahnameh Taheri, Ferial Shayeganfar, Ulrich Pont, Neda Ghiassi, Christian Sustr",
@@ -879,6 +974,7 @@
     },
     {
         "id": 96,
+        "type": "Book Chapter",
         "title": "Data Platforms for Data Spaces",
         "venue": "Data Spaces: Design, Deployment and Future Directions",
         "year": 2022,
@@ -889,20 +985,22 @@
     },
     {
         "id": 97,
+        "type": "Journal Paper",
         "title": "Performance-based building design and retrofit optimization: The SEMERY approach",
         "venue": "Dosya (Dossier)-Bi-Monthly Magazine of the Chamber of Architects/Turkey",
         "issue": "35",
-        "issn": "1309-0704",
+        "isbn": "1309-0704",
         "year": 2015,
         "authors": "Ardeshir Mahdavi, Ulrich Pont, Neda Ghiassi, Ferial Shayeganfar, Stefan Fenz, Johannes Heurix, Amin Anjomshoaa, A Min Tjoa",
         "pages": "49-57"
     },
     {
         "id": 98,
+        "type": "Conference Paper",
         "title": "From data to insights: Constructing Spatiotemporal Knowledge Graphs for City Resilience Use Cases",
         "venue": "Proceedings of the Second International Workshop on Linked Data-driven Resilience Research 2023, co-located with Extended Semantic Web Conference 2023 (ESWC 2023)",
         "volume": "3401",
-        "issn": "1613-0073",
+        "isbn": "1613-0073",
         "year": 2023,
         "publisher": "CEUR-WS",
         "url": "https://ceur-ws.org/Vol-3401/paper1.pdf",
@@ -910,6 +1008,7 @@
     },
     {
         "id": 99,
+        "type": "Conference Paper",
         "title": "From Semantic Web to Wisdom Web: A Retrospective on the Journey to 2043",
         "venue": "Proceedings of the ESWC",
         "volume": "2043",
@@ -919,6 +1018,7 @@
     },
     {
         "id": 100,
+        "type": "Conference Paper",
         "title": "Towards crisis response and intervention using knowledge graphs-crisp case study",
         "venue": "International Conference on Advanced Information Systems Engineering",
         "year": 2023,
@@ -929,6 +1029,7 @@
     },
     {
         "id": 101,
+        "type": "Dissertation",
         "title": "DataDreamer - Generating a Generic Persistence Layer",
         "year": 2005,
         "venue": "Master Thesis",
@@ -937,11 +1038,12 @@
     },
     {
         "id": 102,
+        "type": "Journal Paper",
         "title": "Heat, health, and habitats: analyzing the intersecting risks of climate and demographic shifts in Austrian districts",
         "venue": "Scientific Reports",
         "volume": "15",
         "issue": "1",
-        "issn": "2045-2322",
+        "isbn": "2045-2322",
         "year": 2025,
         "publisher": "Nature Publishing Group UK London",
         "url": "https://www.nature.com/articles/s41598-025-05676-9.pdf",
@@ -950,6 +1052,7 @@
     },
     {
         "id": 103,
+        "type": "Journal Paper",
         "title": "Empowering Digital Humanism in Smart Built Environments through SOLID Data Spaces",
         "venue": "The 1st Solid Symposium Poster Session, co-located with the 2nd Solid Symposium",
         "publisher": "CEUR-WS",
@@ -959,6 +1062,7 @@
     },
     {
         "id": 104,
+        "type": "Journal Paper",
         "title": "Assessing the Reliability and Scientific Rigor of References in Wikidata",
         "year": 2024,
         "venue": "Proceedings of the 4th International Workshop on Scientific Knowledge: Representation, Discovery, and Assessment (Sci-K 2024), co-located with 23rd International Semantic Web Conference (ISWC 2024)",
@@ -969,6 +1073,7 @@
     },
     {
         "id": 105,
+        "type": "Journal Paper",
         "title": "Leveraging Large Language Models to Identify Event-Driven Changes in Wikidata Entities",
         "venue": "Proceedings of the International Workshop on Retrieval-Augmented Generation Enabled by Knowledge Graphs (RAGE-KG 2024), co-located with the 23rd International Semantic Web Conference (ISWC 2024)",
         "publisher": "CEUR-WS",
@@ -980,6 +1085,7 @@
     },
     {
         "id": 106,
+        "type": "Journal Paper",
         "title": "Grid-Based Projection of Spatial Data into Knowledge Graphs",
         "venue": "arXiv preprint arXiv:2411.02309",
         "year": 2024,
@@ -988,9 +1094,10 @@
     },
     {
         "id": 107,
+        "type": "Book Editorial",
         "title": "Special Issue on Big Data for Complex Urban Systems",
         "venue": "Transactions on Large-Scale Data-and Knowledge-Centered Systems XXVII",
-        "issn": "3662534169",
+        "isbn": "3662534169",
         "volume": "9860",
         "year": 2016,
         "publisher": "Springer",
@@ -998,10 +1105,11 @@
     },
     {
         "id": 108,
+        "type": "Journal Paper",
         "title": "Enhancing rail transit accessibility: a data-centric approach to Park and Ride",
         "venue": "Transportation Research Procedia",
         "volume": "86",
-        "issn": "2352-1465",
+        "isbn": "2352-1465",
         "year": 2025,
         "publisher": "Elsevier",
         "url": "https://www.sciencedirect.com/science/article/pii/S2352146525002984",
@@ -1010,10 +1118,11 @@
     },
     {
         "id": 109,
+        "type": "Conference Paper",
         "title": "Exploitation of Semantic Web Technology",
         "venue": "Research and Practical Issues of Enterprise Information Systems: IFIP TC 8 International Conference on Research and Practical Issues of Enterprise Information Systems (CONFENIS 2006) April 24-26, 2006, Vienna, Austria",
         "volume": "205",
-        "issn": "038734456X",
+        "isbn": "038734456X",
         "year": 2007,
         "publisher": "Springer",
         "authors": "Amin Anjomshoaa, Shuaib Karim, Ferial Shayeganfar, A Min Tjoa",
@@ -1021,9 +1130,10 @@
     },
     {
         "id": 110,
+        "type": "Conference Paper",
         "title": "AI-Driven Aquaponics: Real-Time Computer Vision and Machine Learning in Industry 4.0",
         "venue": "NOMS 2025-2025 IEEE Network Operations and Management Symposium",
-        "issn": "9798331531638",
+        "isbn": "9798331531638",
         "year": 2025,
         "publisher": "IEEE",
         "url": "https://ieeexplore.ieee.org/abstract/document/11073591",
@@ -1032,6 +1142,7 @@
     },
     {
         "id": 111,
+        "type": "Journal Paper",
         "title": "Inter-railways Data Sharing for Seamless Travelling Applications in Europe.",
         "venue": "Joint Proceedings of Posters, Demos, Workshops, and Tutorials of the 21st International Conference on Semantic Systems (SEMANTiCS 2025)",
         "volume": "4064",
@@ -1042,6 +1153,7 @@
     },
     {
         "id": 112,
+        "type": "Journal Paper",
         "title": "Towards Harmonised Rail Safety Knowledge: LLM Techniques for EU Accident Report Processing",
         "year": 2025,
         "venue": "Proceedings of the Second International Workshop on Retrieval-Augmented Generation Enabled by Knowledge Graphs (RAGE-KG 2025), co-located with the 24th International Semantic Web Conference (ISWC 2025)",
@@ -1053,14 +1165,16 @@
     },
     {
         "id": 113,
+        "type": "Conference Paper",
         "title": "Building a Web-based Open Source Tool to Enhance Project Management, Monitoring and Collaboration in Scientific Projects",
-        "url": "https://www.schatten.info/publications/iiwas/iiwas2001.pdf",
+        "url": "https://aic.ai.wu.ac.at/~anjomshoaa/publications/iiwas2001.pdf",
         "venue": "The Third International Conference on Information Integration and Web-based Applications & Services (iiWAS)",
         "year": 2001,
         "authors": "Alexander Schatten, A Min Tjoa, Amin Anjomshoaa, M. Hassan Shafazand"
     },
     {
         "id": 114,
+        "type": "Conference Paper",
         "title": "Knowledge Representation Using ISODataDreamer",
         "venue": "1st EuroAsia Conference on Advances in Information and Communication Technology (ICS 2002)",
         "year": 2002,
@@ -1068,8 +1182,9 @@
     },
     {
         "id": 115,
+        "type": "Conference Paper",
         "title": "The Application of Software Agent Technology to Project Management Infrastructure",
-        "url": "https://www.schatten.info/publications/iiwas/iiwas2002.pdf",
+        "url": "https://aic.ai.wu.ac.at/~anjomshoaa/publications/iiwas2002.pdf",       
         "venue": "The Fourth International Conference on Information Integration and Web-based Applications & Services (iiWAS)",
         "year": 2002,
         "authors": "Amin Anjomshoaa, Alexander Schatten, A Min Tjoa, M. Hassan Shafazand"

@@ -52,6 +52,16 @@ const { page } = Astro.props
                 <span class="italic">{talk.data.venue}</span>
               </p>
               <p class="text-base m-0">{talk.data.category}  • <FormattedDate date={talk.data.date}/></p>
+
+              {talk.data.url && 
+                <div class="card-actions justify-end m-0">
+                  <a href={talk.data.url} target="_blank" class="btn btn-sm btn-info text-secondary-content">
+                    View Slides
+                  </a>
+                </div>
+              }
+
+
             </div>
           </div>
         ))

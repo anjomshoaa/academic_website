@@ -1,0 +1,25 @@
+---
+import { type CollectionEntry, getCollection } from 'astro:content';
+
+import BibTexCitation from '@/components/paper/BibTexCitation.astro';
+import Layout from "@/layouts/Layout.astro";
+
+import { render } from 'astro:content';
+
+
+export async function getStaticPaths() {
+	const papers = await getCollection('paper');
+	return papers.map((paper) => ({
+		params: { slug: paper.id },
+		props: paper,
+	}));
+}
+type Props = CollectionEntry<'paper'>;
+const paper = Astro.props;
+const { Content } = await render(paper);
+---
+<Layout>
+	<BibTexCitation {...paper.data}>
+		<Content />
+	</BibTexCitation>
+</Layout>

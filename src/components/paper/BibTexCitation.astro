@@ -1,0 +1,52 @@
+---
+interface Props {
+	type: string;
+	title: string;
+	authors: string;
+	year: number;
+	volume: string;
+	issue: string;
+	pages: string;
+	publisher: string;
+	venue: string;
+	doi: string;
+}
+
+const {type, title, authors, year, volume, issue, pages, publisher, venue, doi} = Astro.props;
+const paper_id = Astro.params['slug'];
+
+const authors_line = authors.replace(/,/g, " and");
+const book_type = (type === 'Journal Paper') ? 'journal':'booktitle';
+const record_type = (type === 'Journal Paper') ? 'article':'inproceedings';
+---
+
+<div class="mockup-code">
+	<pre><code>{`@${record_type}{anjomshoaa${year}_${paper_id},`}</code></pre>
+	<pre><code>{`  title={${title}},`}</code></pre>
+	<pre><code>{`  author={${authors_line}},`}</code></pre>
+
+	{volume && 
+		<pre><code>{`  volume={${volume}},`}</code></pre>
+	}
+
+	{issue && 
+		<pre><code>{`  number={${issue}},`}</code></pre>
+	}
+
+	{pages && 
+		<pre><code>{`  pages={${pages}},`}</code></pre>
+	}
+
+	<pre><code>{`  publisher={${publisher}},`}</code></pre>
+
+	<pre><code>{`  ${book_type}={${venue}},`}</code></pre>
+
+	{doi && 
+		<pre><code>{`  doi={${doi}},`}</code></pre>
+	}
+
+	<pre><code>{`  year={${year}}`}</code></pre>
+	<pre><code>{ "}" }</code></pre>
+</div>
+
+

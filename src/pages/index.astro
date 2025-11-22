@@ -2,24 +2,19 @@
 import Layout from '../layouts/Layout.astro'
 
 import { profile } from '@/settings'
-// import { publications } from '@/data/papers'
 import heroImage from '@/assets/hero_image.png'
 import Hero from '@/components/ui/Hero.astro'
 import PageSection from '@/components/ui/PageSection.astro'
-import ArticleList from '@/components/ui/ArticleList.astro'
+import PaperItem from '@/components/paper/PaperItem.astro'
+
 import { getCollection } from 'astro:content'
 
 const { fullName, title, institute, research_interests, research_areas } = profile
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
-
 
 const publications = (await getCollection('paper'))
 	.sort((a, b) => b.data.year - a.data.year)
-	.slice(0, 10);
-
-
+	.slice(0, 5);
 ---
 
 <Layout>
@@ -40,6 +35,14 @@ const publications = (await getCollection('paper'))
 
 	<!-- Latest Publications -->
 	<section class='py-12 border-t'>
-		<ArticleList listTitle='Latest Publications' listItems={publications} />
+
+		<div class="space-y-8">
+			<h2 class='text-3xl font-bold mb-8'>Latest Publications</h2>
+			{
+				publications.map((paper) => (
+					<PaperItem paper={paper} />			
+				))
+			}
+		</div>
 	</section>
 </Layout>

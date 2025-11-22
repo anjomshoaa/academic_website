@@ -7,7 +7,7 @@
         "volume": "34",
         "year": 2025,
         "isbn": "2590-1982",
-        "doi": "https://doi.org/10.1016/j.trip.2025.101698",
+        "doi": "10.1016/j.trip.2025.101698",
         "url": "https://www.sciencedirect.com/science/article/pii/S259019822500377X",
         "authors": "Shahrom Sohi, Sri Harikrishnan, Amin Anjomshoaa, Axel Polleres",
         "pages": "101698"
@@ -68,7 +68,7 @@
         "venue": "International United Information Systems Conference",
         "year": 2008,
         "publisher": "Springer Berlin Heidelberg Berlin, Heidelberg",
-        "doi": "https://doi.org/10.1007/978-3-540-78942-0_5",
+        "doi": "10.1007/978-3-540-78942-0_5",
         "authors": "Amin Anjomshoaa, A Min Tjoa",
         "pages": "37-44"
     },
@@ -750,8 +750,9 @@
         "year": 2018,
         "publisher": "IEEE",
         "url": "https://ieeexplore.ieee.org/document/8361419",
-        "authors": "Amin Anjomshoaa, F\u00e1bio Duarte, Dani\u00ebl Rennings, Thomas J Matarazzo, Priyanka Desouza, Carlo Ratti",
-        "pages": "4567-4579"
+        "authors": "Amin Anjomshoaa, Fábio Duarte, Daniël Rennings, Thomas J Matarazzo, Priyanka Desouza, Carlo Ratti",
+        "pages": "4567-4579",
+        "doi": "10.1109/JIOT.2018.2839058"
     },
     {
         "id": 75,
@@ -979,7 +980,7 @@
         "venue": "Data Spaces: Design, Deployment and Future Directions",
         "year": 2022,
         "publisher": "Cham: Springer International Publishing",
-        "doi": "https://doi.org/10.1007/978-3-030-98636-0_3",
+        "doi": "10.1007/978-3-030-98636-0_3",
         "authors": "Amin Anjomshoaa, et al.",
         "pages": "43-64"
     },

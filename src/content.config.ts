@@ -32,6 +32,7 @@ const thesis = defineCollection({
 const paper = defineCollection({
   loader: file("./src/data/papers.json"),
     schema: z.object({
+        type: z.string(),
         title: z.string(),
         authors: z.string(),
         venue: z.string(),
@@ -41,6 +42,7 @@ const paper = defineCollection({
         year: z.coerce.number().int(),
         pages: z.string().optional(),
         url: z.string().optional(),
+        doi: z.string().optional(),
     }),
 });
 

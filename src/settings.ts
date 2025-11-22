@@ -41,8 +41,8 @@ export const template = {
 	website_url: 'https://anjomshoaa.github.io', // Astro needs to know your site’s deployed URL to generate a sitemap. It must start with http:// or https://
 	menu_left: false,
 	transitions: true,
-	lightTheme: 'emerald', // Select one of the Daisy UI Themes or create your own
-	darkTheme: 'dim', // Select one of the Daisy UI Themes or create your own
+	lightTheme: 'nord', // Select one of the Daisy UI Themes or create your own
+	darkTheme: 'business', // Select one of the Daisy UI Themes or create your own
 	excerptLength: 200,
 	postPerPage: 5,
     base: '' // Repository name starting with /

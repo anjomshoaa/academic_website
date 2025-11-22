@@ -25,7 +25,7 @@ const { elements, colored } = Astro.props
 						xmlns='http://www.w3.org/2000/svg'
 						viewBox='0 0 20 20'
 						fill='currentColor'
-            class:list={[{ 'text-accent': colored }, 'h-5 w-5']}
+            class:list={[{ 'text-primary': colored }, 'h-5 w-5']}
 					>
 						<path
 							fill-rule='evenodd'
@@ -42,11 +42,12 @@ const { elements, colored } = Astro.props
 					<div>{element.location}</div>
 				</div>
 
-				<div class="timeline-end m-10 md:text-end">
 
+				<div class="timeline-end m-10 md:text-end">
 					<a href={element.url} target="_blank" class="inline-block hover:scale-105 transition-transform">
 						<Image 
 							src={logos[element.logo]} 
+							class="bg-white rounded-md p-2 shadow-md"
 							height="80"
 							alt={isExperience(element) ? element.company : element.school}
 						/>
@@ -55,7 +56,7 @@ const { elements, colored } = Astro.props
 				</div>
 
 
-        <hr class:list={[{ 'bg-accent': colored }]} />
+        <hr class:list={[{ 'bg-secondary': colored }]} />
 			</li>
 		))
 	}

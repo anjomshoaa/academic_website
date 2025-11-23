@@ -1,5 +1,5 @@
 export const profile = {
-	fullName: 'Amin Anjomshoaa',
+	fullName: 'Dr. Amin Anjomshoaa',
 	title: 'Senior Researcher',
 	institute: 'Vienna University of Economics and Business',
 	author_name: 'Amin Anjomshoaa', // Author name to be highlighted in the papers section
